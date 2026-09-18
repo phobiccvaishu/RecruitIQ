@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pymupdf
+python-docx
+spacy
+sentence-transformers
+scikit-learn
+pandas
+numpy
+python-multipart

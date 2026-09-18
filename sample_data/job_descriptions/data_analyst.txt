@@ -1,0 +1,5 @@
+Job Title: Data Analyst
+Experience Required: 1 year
+Required Skills: SQL, Python, Power BI, Tableau
+Preferred Skills: Git, PostgreSQL
+Description: Looking for a Data Analyst to write optimized SQL queries, inspect data quality in Pandas, and present key metrics to management using Power BI and Tableau.

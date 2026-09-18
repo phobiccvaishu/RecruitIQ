@@ -1,0 +1,5 @@
+Job Title: Machine Learning Engineer
+Experience Required: 2 years
+Required Skills: Python, Machine Learning, NLP, SQL
+Preferred Skills: TensorFlow, Docker
+Description: We are seeking a Machine Learning Engineer to design and deploy high-performance NLP models. Candidate will preprocess text, extract features, and maintain REST endpoints.

@@ -1,0 +1,5 @@
+Job Title: Full Stack Developer
+Experience Required: 3 years
+Required Skills: JavaScript, React, Node.js, SQL, PostgreSQL
+Preferred Skills: Git, FastAPI
+Description: Join our product team as a Full Stack Developer. You will build frontend user dashboards in React and implement backend APIs in Node.js, integrated with PostgreSQL databases.

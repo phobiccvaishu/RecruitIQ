@@ -1,0 +1,101 @@
+candidate_id,candidate_name,matched_skills,missing_skills,preferred_skills_matched,skill_coverage_pct
+C001,ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C002,SENIOR ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C003,VOLUNTEER ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C004,ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C005,Microsoft Suite,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C006,SUPERVISOR ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C007,ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C008,ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C009,GENERAL ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C010,ACCOUNTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C011,LEAD PHARMACY TECHNICIAN ADVOCATE  SUPERVISOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C012,FAMILY AND COMMUNITY ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C013,PATIENT ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C014,CUSTOMER ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C015,GRADATION CANDIDATE ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C016,COMMUNITY ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C017,CUSTOMER CARE ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C018,PERSONAL BANKERSAFE AND BUSINESS ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C019,ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C020,TRANSITIONAL HOUSING ADVOCATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C021,BEHAVIORAL INTERVENTIONIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C022,FEMA VACCINE DISTRIBUTION,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C023,LOGISTICS TECHNICIAN,SQL,"React,PostgreSQL,Node.js,JavaScript,Git",SQL,20.0
+C024,ECOMMERCE SUPERVISOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C025,EXTENSION METHODOLOGIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C026,BUDGET ANALYST SERIES,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C027,GRADUATE RESEARCH ASSISTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C028,FINANCIAL INSTITUTION EXAMINER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C029,Career Focus,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C030,GRADUATE RESEARCH ASSISTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C031,ADJUNCT INSTRUCTOR VOLUNTEER CAREER ADVISER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C032,COFOUNDER  SALES  MARKETING COORDINATOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C033,CREATIVE DIRECTOR  FASHION DESIGNER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C034,APPAREL PRODUCTION MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C035,CASHIER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C036,DIRECTOR OF PRODUCT DEVELOPMENT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C037,OWNER SENIOR GRAPHIC DESIGNER  UX DESIGNER  APP DEVELOPER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C038,FINE APPAREL DEPARTMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C039,ASSISTANT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C040,Grocery Clerk,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C041,Professional Summary,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C042,MIDDLE SCHOOL PRINCIPAL,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C043,LIBRARY,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C044,STUDENT TEACHER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C045,SENIOR MARKETING AUTOMATION CONSULTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C046,RDA,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C047,ACTIVITY SPECIALIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C048,COORDINATOR OF STUDENT PERSONNEL SERVICES,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C049,CERTIFIED CUSTOM FRAMER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C050,LANGUAGE ARTS TEACHER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C051,SOFTWARE SUPPORT SPECIALIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C052,SERVICES ENGINEER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C053,COMANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C054,LIABILITY,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C055,CUSTOMER RELATIONS SPECIALIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C056,ORGANIZATION DEVELOPMENT CONSULTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C057,OFFICE SUPPORT COORDINATOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C058,DIRECTOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C059,AGENCY SALES RESOURCES,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C060,CENTRALIZED ADMINISTRATIVE SUPPORT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C061,Career Focus,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C062,OPERATION MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C063,PLANT FULFILLMENT LEADER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C064,PRODUCTION SUPERVISOR  VALUE STREAM LEADER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C065,AVIATION ENGINEER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C066,Career Focus,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C067,journeyman electrician,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C068,P,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C069,AIR FREIGHT AGENT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C070,CONTINUOUS IMPROVEMENT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C071,REVOLVING CREDIT SUPPORT SPECIALIST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C072,Mainframe,"SQL,JavaScript","React,PostgreSQL,Node.js,Git","SQL,JavaScript",40.0
+C073,BUSINESS ANALYST SR TECHNICAL BUSINESS ANALYST,SQL,"React,PostgreSQL,Node.js,JavaScript,Git",SQL,20.0
+C074,FINANCIAL CONSULTANT,SQL,"React,PostgreSQL,Node.js,JavaScript,Git",SQL,20.0
+C075,RETAIL BANKING DIRECTOR,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C076,Kristy Bishop,SQL,"React,PostgreSQL,Node.js,JavaScript,Git",SQL,20.0
+C077,MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C078,BANKING CENTER MANAGER ASSISTANT VICE PRESIDENT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C079,MARKETING AND CORPORATE COMMUNICATIONS MERCHANT SERVICES TRANSITION COMMUNICATIONS PROJECT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C080,PROGRAM ASSISTANT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C081,TEST ANALYSTINTERNCONTRACTOR,"SQL,JavaScript","React,PostgreSQL,Node.js,Git","SQL,JavaScript",40.0
+C082,BPO TEAM LEADER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C083,Skill Highlights,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C084,BUYER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C085,GENERAL MANAGER AND BOARD MEMBER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C086,CLAIMS SUBJECT MATTER EXPERT,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C087,QUALITY ASSURANCE LEAD,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C088,TRANSACTION PROCESSING ANALYST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C089,CUSTOMER SERVICES,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C090,DIVISION OPERATIONS  RISK OVERSIGHT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C091,BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C092,BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C093,SE BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C094,GLOBAL BUSINESS DEVELOPMENT MANAGERMARKETING,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C095,BUSINESS DEVELOPMENT ANALYST,SQL,"React,PostgreSQL,Node.js,JavaScript,Git",SQL,20.0
+C096,BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C097,BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C098,BUSINESS DEVELOPMENT MANAGER,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C099,BUSINESS DEVELOPMENT ANALYST,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0
+C100,BUSINESS DEVELOPMENT ASSOCIATE,,"React,PostgreSQL,Node.js,SQL,JavaScript,Git",,0.0

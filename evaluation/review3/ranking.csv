@@ -1,0 +1,1324 @@
+rank,candidate_id,candidate_name,overall_score,skills_coverage,experience_years,explanation
+1,C072,Mainframe,33.8,2/6,0,"Candidate Mainframe has an overall match of 33.8%. They possess 2 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 19.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'MBA : Finance , 2011 Symbiosis University ï¼​ City , State , INDIA
+BE Computer - Pune University 2005
+Accomplishments
+OHCB project is development of a new platform for processing the banking business of HSBC in mainframes Currently this project is in its
+SIT phase for Term Deposit and initial design for Lending.
+As a part of one HSBC initiative HSBC is Developing new product named OHCB on Mainframes platform which will have all the existing
+functionality of it's existing core banking product HUB which is on AS400.
+In conjuction with the current functionality of HUB, HSBC has decided to include additional functionality in the OHCB to meet One HSBC
+solution.
+Currently 53 countries uses HUB as their primary banking system.
+OHCB architecture is totally service based so that it remains very loosely coupled and can interact with other OH (One HSBC) financial
+product like OH payment, OH forex, OH cards , OHCDM etc easily.
+This is the flagship project for HSBC and OHCB will be deployed in all the 85+ countries where HSBC is currently in business by year
+2020.
+2.
+IBM INDIA PVT LTD, Pune (System Engineer: Mar 2007 - Oct 2010) PROJECT: MIW (MARKETPLACE INFORMATION
+WAREHOUSE) Developer / DBA Apr 2009 - Oct 2010 Client : IBM, USA Tools : SCLM, RMDS, DB2 Admin Panel, Spufi, QMF,
+Brio.
+Platform : Z/OS.
+Languages : PL1, JCL, VSAM, DB2.
+Database : DB2 8.0 / 9.0 Team Size : 7 Roles / Responsibilities: DBA Activities (Solving user queries, Loading / Unloading data,
+Authorization, Execution of Utilities) Change request estimation / updating and scheduling, project metrics management using RPM tool
+Active participation in Application design.
+Responsible for Change Request Management, Code development / delivery Creation of BRIO Reports Unit testing and documenting unit
+test results.
+Review of program specifications, unit test specifications and unit test results Production Support (L3) / Resolution of abends Description:
+Marketplace Information Warehouse (MIW) is a part of IW suite of applications.
+MIW houses multiple sources of data and makes this data easy to use by cleaning, processing, linking, and further defining the data for
+faster delivery of information that is critical to the business needs of sales and marketing professionals.
+Data is both licensed from external sources and compiled by IBM internally.
+MIW receives External data from its Vendors.
+MIW refines and process raw information received from different vendors into useful information, which is loaded to DB2 tables.
+IBM sales and marketing team access this data using different online interfaces.
+The information that MIW receives and process differ for different vendors.
+PROJECT: LDW ESW Developer Apr 2007 - Mar 2009 Client : IBM, Germany Platform : Z/OS.
+Tools : Spufi, QMF, Brio, DB2, TSO/ISPF Team Size : 2 Roles / Responsibilities: Responsible Application design.
+Production Support.
+Creating Report on BRIO depending on Requirements.
+Scheduling the jobs in OPC.
+DBA Activities.
+Participate in project meeting.
+Description: EBI (Enterprise Business Information) Operation includes three batches, one for each GEO (EMEA, NA and AP) running
+overnight.
+The batches feed daily IDOCs from CBS located on SAP environment to S&D IW located on MVS/DB2 environment through FODS
+(Fulfillment Operational Data Store).
+The LDW ESW is physically located on an MVS/DB2 environment in UK/Portsmouth - UK MVS TSOBA.
+There will be no direct access to the LDW ESW system on TSOBA for the common users (key users and LCM have direct access).
+Edge-On-Demand is used as a front-end tool with BRIO as the query tool behind.
+It's a WEB based solution, which supports different formats (BRIO, HTML, and L123).
+PROJECT: LDS (LEGACY DATA SYSTEMS) Developer Oct 2007 - Mar 2009 Client : IBM, Germany Platform : Z/OS.
+Tools : Spufi, QMF, Brio, DB2, TSO/ISPF Team Size : 2 Roles / Responsibilities: Responsible Application design.
+Production Support.
+Creating Report on BRIO depending on Requirements.
+Scheduling the jobs in OPC.
+DBA Activities.
+Participate in project meeting.
+Description: The Legacy Data Store (LDS) as a logical part of the EDW consists of 12 tables.
+It is a system which receives data from the Legacy Warehouse systems and stores it in the S&D Information Warehouse.
+The whole transmission system consists of two parts: 1) The sending part on Legacy Warehouse Country side 2) The receiving part on
+S&D IW side For each sending system exists in the S&D IW one dedicated receiving System.
+The sending and the receiving systems are developed as OPC job net running under MVS.
+Each job net consists of several jobs, which usually executes one program, but there are also jobs executing more than one.
+A program is a MVS/DB2 Utility or a PL/I Program.
+Because up to 12 tables are fed, there are also 12 interfaces, each responsible for one target table.
+Dependent from the target table, every interface has a specific layout and record format.
+The two subsystems communicate with the help of a trigger file.
+This file indicates that a sending action has successfully completed and the data can be accessed on the receiving side.
+If no trigger file is received on the target side, no processing take place.
+Skills
+analytical skills, banking, CICS, COBOL-II, COBOL, client, clients, Database, delivery, documentation, ENDEVOR, English, File-Aid,
+functional, Hindi, IBM, DB2, DB2 8.0, DB2 9.0, IBM-MVS, ISPF, JCL, Languages, team building, Team Lead, Mainframe, MS-Access,
+Windows, News-Letter, OS, Developer, PL1, Coding, proposals, QMF, quality, Quest, reengineering, reporting, REXX, scheduling, SPUFI,
+SQL, TSO, UDB, VSAM
+Additional Information
+PERSONAL DETAILS Date of Birth : 20-08-1983 Sex : Female Marital Status : Married
+Hobbies, Interest : Watching movies, Listening music Swapanali Dhend'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+2,C081,TEST ANALYSTINTERNCONTRACTOR,28.9,2/6,0,"Candidate TEST ANALYSTINTERNCONTRACTOR has an overall match of 28.9%. They possess 2 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 11.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Software Engineering Master of Engineering University of Auckland Master of Engineering Studies -Software Engineering Key papers include:
+High Performance Computing, System Security, Project Management and Risk Management.
+Jawaharlal Nehru Technological University 
+Information Technology Bachelor of Engineering Jawaharlal Nehru Technological University Bachelor of Engineering-Information Technology
+Skills
+Testing, Cases, Test Cases, Functional Testing, Integration, Integration Testing, Integrator, Android, Android Sdk, Ios, Mapping, Safari, Software
+Testing, Statistics, Test Plans, Topo, Writing Functional, Engineer, Test Engineer, Writing Test, Writing Test Cases, Access, C#, Ms Sql Server,
+Sql, Sql Server, Sql Server 2005, Windows Xp, Process Improvement, Retail, Retail Marketing, System Testing, Acceptance Testing, C++,
+Documentation, Gis, Html, Java, Javascript, Linux, Microsoft Office, Microsoft Project, Ms Office, Performance Testing, Regression Testing,
+Scripting, Self Motivated, Software Development, Structured Software, System Integration, User Acceptance, User Acceptance Testing,
+Windows 8, Xml, Operations, Database, Insurance Management, Payments, B2b Software, High Performance Computing, Project Management,
+Risk Management, Security, Software Engineering, System Security, Trading'. Traditional keyword matching scores the candidate higher by 21.8% due to exact acronym/skill overlap, though semantic similarity shows a lower context alignment."
+3,C099,BUSINESS DEVELOPMENT ANALYST,23.0,0/6,0,"Candidate BUSINESS DEVELOPMENT ANALYST has an overall match of 23.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 21.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Science : Information Systems-Graduate Business Analytic Certificate , 2017 UNIVERSITY OF PHOENIX ï¼​ City , State
+Master of Science : Criminal Justice , 2003 TIFFIN UNIVERSITY ï¼​ City , State
+Specialization: Criminal Justice Administration
+Bachelor of Science : Public Administration , 1997 MYERS UNIVERSITY ï¼​ City , State
+Skills
+Business Analysis, Account management, Accounting, Big Data, Business Administration, Business Consulting, Business Development, Business
+Solutions, Business Systems, Customer Relationship Management, Client Relations Development, Database, Direct Marketing,Finance,
+Information Technology, Law, Leadership, Director, Marketing, Market Evaluation, Messaging, Enterprise, Network, Organizational,
+Performance Reviews, performance management, policies, processes, Proposals, proposal Writing, Speaking, Professor, Quality, Recruitment,
+Relationship Building, Risk Management, Selling, Sales, Scheme, Strategic Plans, Supply Chain Management, Tables, Underwriting.'. Semantic matching scores the candidate 21.7% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+4,C023,LOGISTICS TECHNICIAN,22.4,1/6,0,"Candidate LOGISTICS TECHNICIAN has an overall match of 22.4%. They possess 1 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Public Health (Mental Health) , 2014 National University ï¼​ City , State , United States Public Health (Mental Health) Study focused on
+Community and Public Health, Health and Human Services, Health Service policy, Global Health, Environmental Health, Psychosocial
+epidemiology, Epidemiology and Biostatistics.
+Bachelor of Science : Healthcare Management , 2013 Park University ï¼​ City , State , United States Healthcare Management Study focused on
+principles of accounting, Economics, Financial management, Human resource management, principles of management, organizational behavior,
+Business law, principles of marketing, Legal issues of health care and Quantitative research methods.
+Associate of Arts : 2009 Air University ï¼​ City , State , United States Logistics Study focused on supply management, material storage and
+distribution, logistics automated systems, logistics maintenance system, and stock control
+Bachelor of Science : 2008 Ladoke Akintola University ï¼​ State , Nigeria Applied Biology (Microbiology) Study focused on Environmental
+pollution, Environmental Pollution,'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+5,C095,BUSINESS DEVELOPMENT ANALYST,21.7,1/6,0,"Candidate BUSINESS DEVELOPMENT ANALYST has an overall match of 21.7%. They possess 1 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 9.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'May, 2016
+University of Miami City , State Bachelor of Arts : Economics and Pre-Law
+Minors: Business Law and Marketing
+Alpha Epsilon Pi - Social Officer; August 2013 â€“ May 2016'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+6,C034,APPAREL PRODUCTION MANAGER,21.0,0/6,0,"Candidate APPAREL PRODUCTION MANAGER has an overall match of 21.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 18.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2005
+University of California City , State Bachelor of Science : Applied Management Applied Management
+2009
+University of California City , State Bachelor of Science : Business Administration Business Administration Want more? Check out our other
+examples. See More Examples
+Skills
+Adobe Photoshop, budget, client, clients, design software, facility maintenance, inventory, multitasking, product design, quality, quality assurance,
+quality control, real-time, sales'. Semantic matching scores the candidate 18.4% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+7,C073,BUSINESS ANALYST SR TECHNICAL BUSINESS ANALYST,20.6,1/6,0,"Candidate BUSINESS ANALYST SR TECHNICAL BUSINESS ANALYST has an overall match of 20.6%. They possess 1 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 7.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Engineering , Information Technology 6 2008 University of Mumbai Integrated Trading and Manufacturing (ITM,An ERP by Base
+Information) BI Tool : BI Base (Business Intelligence tool by Base Information) Information Technology
+Personal Information
+Comprehensive problem solving abilities, excellent verbal
+Interests
+Passport, Visa Details : Visa: L2 EAD Extracurricular activities : Actively participated in organizing collage events,Industrial Visits, Active member
+and volunteer for
+Languages
+English, Marathi, Hindi.
+Skills
+Go Live, ad, applications master, Approach, automate, automation, banking, BI, Business Intelligence, C, C++, Change management, competitive,
+CA, Hardware, Customer Relationship Management, CRM, Crystal Reports, Client, Databases, Database, delivery, Designing, Documentation,
+Eclipse, Editor, English, ERP, Funds, Hindi, HTML, IBM, DB2, IBM Websphere, Information Security, J2EE, Java, Jboss 5.1.0, Jboss,
+Languages, Linux, Market research, market, Marketing, MS Project, Windows 9, Windows, 2000, migration, Operating Systems, Oracle 9,
+Oracle, Developer, Oracle Enterprise Manager, Oracle SQL, PDF, Power Builder 9.0, Product Management, Rational Rose, Red hat 5, RedHat
+Linux 2.5, Requirement, Retail, Sales, SAP, SDLC, servers, SMS, Software Development, MS SQL Server, MS SQL, SQL, Tax, user training,
+Tomcat5, Tomcat6, Troubleshooting, UML, validation, Visio, Web Designing, Workflow, XML
+Additional Information
+PERSONAL DETAILS: Comprehensive problem solving abilities, excellent verbal
+written communication skills, ability to deal with people diplomatically, willingness to learn team facilitator hard worker. Name : Aaditya
+Vijay Hirurkar Date of Birth : 20th Oct-1985 Sex : Male Nationality : Indian Marital Status : Single
+Passport, Visa Details : Visa: L2 EAD Extracurricular activities : Actively participated in organizing collage events,Industrial Visits, Active
+member and volunteer for'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+8,C051,SOFTWARE SUPPORT SPECIALIST,20.4,0/6,0,"Candidate SOFTWARE SUPPORT SPECIALIST has an overall match of 20.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 17.3% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Business Administration , 2015 Regis University ï¼​ City , State , USA
+Business Administration
+Skills
+administrative, ADP payroll, Air Force, balance, banking, basic, billing, Excellent oral, hardware, cost reduction, client, customer services,
+Customer Service, database management, Equity, financial, information security, loss prevention, weapons, payroll, personnel, philosophy, camera,
+Police, policies, processes, recruiting, safety, sales training, staffing, telephone, phone, web content development, written communication skills'. Semantic matching scores the candidate 17.3% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+9,C045,SENIOR MARKETING AUTOMATION CONSULTANT,19.9,0/6,0,"Candidate SENIOR MARKETING AUTOMATION CONSULTANT has an overall match of 19.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 16.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Modern Marketing Luminary Certification : 5 Tenets of Modern Marketing 2015 Oracle Marketing Cloud Academy City , State , United States
+B2B Oracle Eloqua Masters : Marketing Automation 2013 Eloqua University City , State , United States
+Bachelor of Arts : Communication Studies 2011 San Francisco State University City , State , United States
+Accomplishments
+Markie Awards Judge for Modern Marketing Experience 2015
+Expert speaker for Eloqua University Education sessions during Modern Marketing Experience 2015
+Fourth Princess titleholder in the 2014 Miss Chinatown U.S.A. Pageant
+Achieved Black Sash ranking in Shaolin Kung Fu by recommendation of the Yee's Martial Arts Examining Committee, 2010
+Skills
+AdvancedÂ Eloqua product knowledge and experience
+Strong working knowledge inÂ Salesforce.comÂ implementation
+In depth knowledge in project planning and leading marketing automation teams and projectsÂ from ground zero
+Expertise inÂ developing guidelines, best practices, and training in automation tools
+VeryÂ strong in managing system integration projectsÂ with third party vendors
+Instrumental inÂ managing multiple projectsÂ simultaneously
+Excellent communication, analytical, and problem solving skills with proven ability to interact well with end users, peers, and senior
+management
+Affinity for logic and working independently; Proactive, self-sufficient, and self-motivated'. Semantic matching scores the candidate 16.5% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+10,C063,PLANT FULFILLMENT LEADER,19.8,0/6,0,"Candidate PLANT FULFILLMENT LEADER has an overall match of 19.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 16.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : Business Management 2008 Curry College , City , State Business Management
+Skills
+APS, CAS/IMPACT, CSF, Aviation Supply Chain, Lean Manufacturing, materials,Â Microsoft Excel, Office, PowerPoint, Word, inventory
+levels.Â'. Semantic matching scores the candidate 16.4% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+11,C071,REVOLVING CREDIT SUPPORT SPECIALIST,19.4,0/6,0,"Candidate REVOLVING CREDIT SUPPORT SPECIALIST has an overall match of 19.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 15.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Health Administration Information Systems , February 2016 University of Phoenix ï¼​ City , State , United States Health
+Administration Information Systems
+Skills
+administrative, banking, call center, coach, coaching, credit, clients, customer satisfaction, customer service, database, detail-oriented, fast,
+financial, team leader, Lotus Notes, Mainframe, Mentor, Microsoft Office Suite, Outlook, works, organizational skills, performance management,
+personnel, policies, processes, quality, research, sales, Self-Motivated, Self-starter, Supervisor, supervision, time management, training programs'. Semantic matching scores the candidate 15.6% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+12,C085,GENERAL MANAGER AND BOARD MEMBER,19.4,0/6,0,"Candidate GENERAL MANAGER AND BOARD MEMBER has an overall match of 19.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 15.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : Pre-Law University of South Florida
+Skills
+account management, a P, B2B, Behavioral Health, business development, business operations, business planning, business process, Call Center,
+consulting, Contact Management, customer relationship management, CRM, Client, Clients, customer satisfaction, customer service, customer
+care, DELL, direct marketing, entrepreneur, senior management, financial, financial management, FP&A, gross profit, Human Resource
+Management, Human Resource, Human Resources, inside sales, insurance, legal, Logic, management consulting, market, network, organizational,
+process re-engineering, processes, quality assurance, recruiting, selling, sales, sales support, staffing, strategy, strategic, strategic planning, technical
+support, telecommunications, vendor relations'. Semantic matching scores the candidate 15.7% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+13,C056,ORGANIZATION DEVELOPMENT CONSULTANT,18.5,0/6,0,"Candidate ORGANIZATION DEVELOPMENT CONSULTANT has an overall match of 18.5%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 14.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Professional School of Psychology 
+Certified Executive Coach
+JFK University 
+State Management - Organizational Change and Leadership Master of Arts Management - Organizational Change and Leadership
+Ramapo College of New Jersey 
+Sociology Bachelor of Arts Sociology'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+14,C029,Career Focus,18.2,0/6,0,"Candidate Career Focus has an overall match of 18.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 13.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Masters in Business Administration : Business Administration , 1993 Mercer University, Stetson School of Business and Economics ï¼​ City , State
+, US Masters in Business Administration, 1993 Mercer University, Stetson School of Business and Economics, Atlanta, GA.
+Bachelors : Business Administration, Finance, Risk Management/Insurance , 1987 University of Georgia, Terry College of Business Administration
+ï¼​ City , State , US Bachelors in Business Administration, 1987 University of Georgia, Terry College of Business Administration, Athens, GA.
+Double Major: Finance, Risk Management/Insurance. Delta Gamma Sorority, UGA Student-Alumni Committee, Delta Sigma Pi Business
+Fraternity
+Associate , 1984 Middle Georgia College ï¼​ City , State , US Associate in Business Administration, 1984 Middle Georgia College, Cochran,
+GA., Honors Graduate
+Vice President of Student Government, Advertising , 1984 Kernel College Newspaper Vice President of Student Government; Student Advisory
+Council to the GA Board of Regents; Assistant Editor & Advertising Editor of the Kernel College Newspaper; Voted ""Miss Middle Georgia
+College"" 1984 by Student Body INTERNSHIPS/COOPERATIVE EDUCATION/PART-TIME EMPLOYMENT
+MBA : International Business Mercer University Major: International Business, Honors Graduate; MBA Studies Abroad (Germany) - July 1991
+Professional Affiliations
+Awarded Contract with Southern U. S. Trade Association to implement a Canadian/US Trade Mission, arranged and conducted conferences,
+handled guests transportation, assembled media kits and press releases: Master of Ceremony for several of the conferences and made
+presentations on international marketing
+Military Experience
+January 1993 to June 1983 Company Name County Coordinator for two successful Gubernatorial campaigns; Honored as an ""Admiral of the
+Georgia Navy"" Metro Atlanta Chamber of Commerce, Atlanta, GA, Membership Development, Sales Representative, 1993 Congressman
+Richard Ray, US House of Representatives. Washington, DC; Congressional Intern, Summer 1983
+Languages
+English tutor to an Armenian
+Presentations
+Awarded Contract with Southern U. S. Trade Association to implement a Canadian/US Trade Mission, arranged and conducted conferences,
+handled guests transportation, assembled media kits and press releases Master of Ceremony for several of the conferences and made
+presentations on international marketing
+Skills
+Trade Show, Buyer, Buying/procurement, Market Research, Marketing, Accounts Through, Cold Calling, Commodities, Credit, Import/export,
+Prospecting, Sales, Sales In, Sales Manager, Fleet Management, Assistant Director, Liaison, Trading, Database, Games, Maintenance,
+Promotional, Staffing, Strategic Direction, Training, Budget, Account Executive, Documentation, Quotations, Shipping, Award, Business
+Development, Commercial Real Estate, Event Planning, Human Resources, In Sales, Northern Telecom, Peachtree, Property Management, Real
+Estate, Real Estate Lending, Sales Representative, Telecom, Training Programs, Induction, Mba, Finance, Risk Management, Advertising,
+Associate'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+15,C013,PATIENT ADVOCATE,17.9,0/6,0,"Candidate PATIENT ADVOCATE has an overall match of 17.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 13.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Public Administration : Health Care Management Grand Canyon University ï¼​ City , State Health Care Management
+2011
+Bachelor of Science : Family and Human Development Arizona State University ï¼​ City , State Family and Human Development
+Skills
+allergies, Attention to detail, CPT, clients, emotional support, forms, home health, hospice,ICD-9, ids, insurance, leadership, law, Medical
+terminology, coordinate patient care, processes, coding, Quality assurance, Safety, Self-motivated, team player, type, written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+16,C058,DIRECTOR,17.9,0/6,0,"Candidate DIRECTOR has an overall match of 17.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 13.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '1984
+MASTER'S DEGREE : BUSINESS ADMINISTRATION Stetson University ï¼​ City , State BUSINESS ADMINISTRATION
+1981
+BACHELOR OF SCIENCE DEGREE : Journalism and Business Florida Southern College ï¼​ City , State Journalism and Business
+Skills
+America Online, AOL, Auto Repair, Branding, budget, business development, com, content, contract negotiations, contracts, credit, Database,
+delivery, Dell, financial, focus, government, Internet Development, Internet Service Provider, leadership, marketing plans, marketing, market,
+Marketing Manager, marketing materials, MBA, Money, office, multimedia, multi-media, pricing, product development, project management,
+publications, receiving, retail, RFP, sales, sales/development, sales reporting, Shell, stories, strategy development, telemarketing, web site, writer,
+zip'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+17,C084,BUYER,17.5,0/6,0,"Candidate BUYER has an overall match of 17.5%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 12.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Business Administration : Finance & Human Resource , 2008 CMR Institute of Management studies, Bangalore University ï¼​ City ,
+India Finance & Human Resource
+Bachelor of Commerce : Marketing , 2006 Narmada college of Science and Commerce, Veer Narmada South Gujarat University ï¼​ City , India
+Marketing
+Skills
+Accounts payable, Accruals, ad, AP, Automation, Trial Balance, book, Client, clients, Debit, Dell, documentation, email, fixed assets, forms, HP,
+Indexing, Inventory, Processing of invoices, Invoice processing, invoicing, legal, letters, Meetings, Excel, mail, Office, PowerPoint, MS-Word,
+Oracle, Problem Solving, process improvement, Procurement, purchase requisitions, Purchasing, quality, Receiving, reconciling, reporting, SAP,
+Shared Service, SLA i, Sun, Team Player, vendor management'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+18,C093,SE BUSINESS DEVELOPMENT MANAGER,17.4,0/6,0,"Candidate SE BUSINESS DEVELOPMENT MANAGER has an overall match of 17.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 12.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science , Economics Marketing 05.05.88 Clemson University ï¼​ City , State
+Economics-Marketing. Concentration in Labor Economics, Finance, Mathematics, Business Management, and Marketing.
+Interests
+Phi Gamma Nu-Pledge Class President. Fellowship of Christian Athletes. Varsity Football-1983 to 1985.
+Additional Information
+Phi Gamma Nu-Pledge Class President. Fellowship of Christian Athletes. Varsity Football-1983 to 1985.
+Skills
+automation Business development Business development Business Management C SC Economics Engineer Finance inside sales marketing
+automation, Business development, Business development, Business Management, C, SC, Economics, Engineer, Finance, inside sales, marketing
+plan, marketing, market, Mathematics, organizational, Outside Sales, packaging, presentations, Quality, Sales, Siemens, Six Sigma, SOP,
+specification, staffing, Strategic, Supply Chain, technical sales, Technical support, trouble-shoot'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+19,C074,FINANCIAL CONSULTANT,17.3,1/6,0,"Candidate FINANCIAL CONSULTANT has an overall match of 17.3%. They possess 1 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2012
+Masters : Business Administration St. Mary's College of California Business Administration
+2004
+B.S : Management Science University of California ï¼​ City Management Science
+2004
+B.S : General Biology University of California ï¼​ City General Biology
+Skills
+accounting, Automation, balance sheet, Banking, branding, budgeting, Budget, bi, capacity planning, credit, credit/risk, clients, client relations,
+database analysis, database, drivers, Essbase, finance, Financial, financial planning, FP&A, forecasting, forms, Hyperion, insurance, leadership,
+long-term care, Macros, management reporting, marketing, Access, MS Access, Excel, Modeling, negotiation, pivot table, presentations, pricing,
+processes, Project lead, proposals, quality assurance, real estate, reporting, Research, SQL, trend, variance analysis, vendor management, VBA,
+website design, workflow'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+20,C089,CUSTOMER SERVICES,17.3,0/6,0,"Candidate CUSTOMER SERVICES has an overall match of 17.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 12.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2014
+Bachelor of Science : Economics City Colombia Economics
+YENI MALDONADO
+Languages
+Spanish - English - Portuguese
+Skills
+Attention to detail, Billing, Customer Services, data Analysis, Documentation, e-mail, English, organize files, financial, financial reports, investments,
+Leadership, meetings, Microsoft office, office, Portuguese, Risk Management, selling, Spanish, Strategic Planning, phone, web page'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+21,C004,ACCOUNTANT,17.2,0/6,0,"Candidate ACCOUNTANT has an overall match of 17.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 12.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '02/2004
+Master of Business Administration : Accountancy National University ï¼​ City , State Accountancy
+12/1999
+Bachelor of Science : Hotel Management University of Nevada Las ï¼​ City , State Hotel Management
+05/1997
+Associate of Science : Business Administration Parkland College ï¼​ City , State Business Administration
+Skills
+accounting, Accounts Payable, ADP Payroll, ad, A/P, audit reports, balance, Balance Sheet, Bank Reconciliations, Bank reconciliation, billings,
+Budgeting, budgets, budget, business development, business plan development, Cash Management, coaching, consultant, contracts, cost
+accounting, cost control, credit, clients, databases, Database, documentation, finance, financial, financial reports, Financial Statements,
+Forecasting, hiring, Human Resources, insurance, Managing, managerial accounting, Microsoft Office, Enterprise, networking, ORACLE, payroll,
+Peachtree, problem solving, processes, proposal, purchasing, quality, QuickBooks, reporting, Research, Sales, SAP, scheduling, strategic,
+treasury, trend, underwriting, monthly variance analysis, Visual Basic'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+22,C057,OFFICE SUPPORT COORDINATOR,16.9,0/6,0,"Candidate OFFICE SUPPORT COORDINATOR has an overall match of 16.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 11.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2012
+University of Colorado Colorado Springs City , State , El Paso Bachelor : Psychology
+BA in Psychology
+3.87 GPA / Graduated Magna Cum Laude
+2006
+State Vocational School III Bamberg / Germany City , State , Germany III Bamberg Vocational Field Economics + Administration, Health (2003-
+2006) Graf-Stauffenberg-Business School Bamberg Business Certificate : Administratin/ Business/ Health
+Major in Business Administration
+Minor in Health and Employment Law
+Coursework includes Economics
+Coursework includes Organizational Behavior
+Coursework includes English
+Languages
+Bilingual in English and German
+Interests
+Committed to community service. Extensive volunteer history includes being a Court Appointed Special Advocate for abused and neglected
+children and collecting experience as a Neonatal Hearing Screen Volunteer at St. Francis / Penrose in postpartum wing and Neonatal Intensive
+Care Unit.
+Skills
+Case Management
+Excellent Customer Service'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+23,C022,FEMA VACCINE DISTRIBUTION,16.4,0/6,0,"Candidate FEMA VACCINE DISTRIBUTION has an overall match of 16.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Geography/Urban Studies , 05/2018 
+University of Minnesota - Twin Cities - City , State 
+Associate of Science : Geography , 05/2016 
+Normandale Community College - City , State 
+Accomplishments
+S
+l
+t lI t
+t
+f
+W ld R i
+lG
+h
+Supplemental Instructor for World Regional Geography course.
+Dean's List for academic excellence (Dec 2015).
+Studied abroad in India studying environment and population development.
+Plymouth Citizens Academy (2015)
+Certified Forest Garden Trainer - APMG International (March 2020).
+Skills
+Proposal Development
+Funding Source Research
+Leadership
+Maintenance & Repair
+Microsoft Office & GIS
+Data analysis
+Community development
+International aid'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+24,C075,RETAIL BANKING DIRECTOR,16.4,0/6,0,"Candidate RETAIL BANKING DIRECTOR has an overall match of 16.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Graduate 2016 Leadership New Mexico
+MBA , technology The College of Santa Fe Western States School of Banking at University of New Mexico technology
+B.S.B.A , Business Administration management Northern Arizona University Business Administration management
+Interests
+Santa Fe Chamber of Commerce board member 2007-2012; treasurer the last 3 years *Partners in Education board member 2004-2006 *Junior
+Varsity tennis coach at St. Michael's High School
+Skills
+Adobe Acrobat, advertising, agency, ATM, Banking, budgeting, budget, call center, delivery, direct mail, special events, Executive Management,
+Facilities Management, Financial, financial reporting, image, investment strategies, leadership, marketing, market, Marketing and Communication,
+materials, Microsoft Excel, Microsoft Outlook, Microsoft Powerpoint, Microsoft Word, new product development, personnel, policies, pricing,
+product development, Project Management, real estate, retail, risk management, staff development, strategy, strategic, Strategic Planning
+Additional Information
+AWARDS & COMMUNITY INVOLVEMENT *Santa Fe Chamber of Commerce board member 2007-2012; treasurer the last 3 years
+y
+*Partners in Education board member 2004-2006 *Junior Varsity tennis coach at St. Michael's High School *Best Bank in Santa Fe
+Award - five years in a row *Winner Business Excellence Award in the Large Business Category of the Santa Fe Chamber of Commerce
+and US West *Winner Best Employer of the Year of the Large Business Category Jennifer Lind'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+25,C086,CLAIMS SUBJECT MATTER EXPERT,16.4,0/6,0,"Candidate CLAIMS SUBJECT MATTER EXPERT has an overall match of 16.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Psychology , Current 
+Liberty University - City , State 
+Psychology/ Christian Counseling
+Administration
+Â Advocacy 
+Case Management 
+Community Relations
+Â Counseling
+Â Mental Health Services Programming
+Certification in Medical Coding May 2017 : Ashworth College - 
+Skills
+AS400, balance, Basic, benefits, billing, brochures, Calculator, call center, CMS, CPT coding, CPT, credit, client, clients, customer service,
+forms, ICD-9, Internet Explorer, Team lead, team leader, Microsoft Access, Excel, Office, Outlook, PowerPoint, Power point, Word, Microsoft
+Word, Police, Coding, sales, phone'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+26,C088,TRANSACTION PROCESSING ANALYST,16.1,0/6,0,"Candidate TRANSACTION PROCESSING ANALYST has an overall match of 16.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Art Institute of San Antonio Bachelor of Arts : Media Arts and Animation City , State Media Arts and Animation
+Sandra Day O'Connor High School High School Diploma City , State
+Skills
+Adobe, advertisements, art, coaching, interpersonal communication, Excellent communication, Creative design, client satisfaction, customer
+service, Dependable, adaptable learner, Staff training, First Aid, Government security clearance, graphic design, computer graphics, Leadership
+ability, marketing, organized individual, messaging, Microsoft office, PowerPoint, Weapons training, page-layout, critical thinker, photography,
+policies, very fast learner, sales, scheduling, tear gas training, Troubleshooting, Honesty, loyalty, integrity, proficient in SAP, EVMS'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+27,C097,BUSINESS DEVELOPMENT MANAGER,15.9,0/6,0,"Candidate BUSINESS DEVELOPMENT MANAGER has an overall match of 15.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 9.9% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Associate's degree : Early Education Ashford University - City , State 
+Bachelor of Science : Ashford University - City , State 
+Skills
+billing, book, budgets, coaching, contract administration, Customer Relationship Management, CRM, client, clients, Client liaison, customer
+satisfaction, customer service, delivery, directing, Government, Information Technology, invoicing, leadership, Managing, marketing, Market,
+mentoring, office, organizational, policies, Project Management, Relationship management, RFP, Sales, sales and management, staffing,
+Telecommunications, training programs, Author
+Additional Information
+Community Leadership Rock Steady Boxing, Volunteer Coach for program designed to provide betterment of life for boxers diagnosed
+with Parkinson's. Assisted with the distribution of sponsorship information to contacts as well as annual table captain for two personal
+tables. Junior Achievement of Indianapolis, Volunteer for JA of Indy as well at BizTown as a mentor to students. Families First, Volunteer
+and hold seat of Advisory Council Board Member. Helped gain donated items for silent/live auction at annual event. Helped with set up and
+organization of annual event. Christian Chamber of Commerce, Yearly sponsor of monthly lunch series MyComputerCareer.com, Guest
+Speaker discussing importance of LinkedIN and possible advantages and disadvantages of social media in the job marketplace Cardboard
+Box Ministries, Mentor to organization and currently hold seat on Board of Directors'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+28,C048,COORDINATOR OF STUDENT PERSONNEL SERVICES,15.1,0/6,0,"Candidate COORDINATOR OF STUDENT PERSONNEL SERVICES has an overall match of 15.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 8.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Science - Counseling University of Houston Clear // City , State // 2006 Counseling
+Certified in School Counseling (EC-12) by the Texas State Board for Educator Certification -
+Bachelor of Arts - English and History Texas Tech University // City , State // 2000 English and History Graduated Summa Cum Laude
+Certified in English and History (6-12) by the Texas State Board for Educator Certification -'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+29,C083,Skill Highlights,15.0,0/6,0,"Candidate Skill Highlights has an overall match of 15.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 8.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Post Graduate Degree
+MS - HRM : Human Resources 2007 ICFAI University [Dehradun] , From ICFAI School of HRD , City , India Human Resources
+Bachelor of Science : Information Technology Science and Commerce BSc I.T University of Mumbai Birla college of Arts India Information
+Technology Science and Commerce
+Personal Information
+I have a valid H1B visa to be employed in the US.
+Interests
+2012 Investigation Procedures and reporting Edison, NJ TCS and Freeh Group International Additional Details Current Location Cincinnati, OH
+Passport Details Passport # J 9138762 Issued at Thane, India on 04/10/2011 Valid up to 03/10/2021 Visa Details Visa Type - H1B -
+Transferable
+Skills
+Basic, branding, budget, Bi, Change Management, closing, communication skills, client, clients, documentation, Employee Relations, fast, hiring,
+Human Resource, HR, Leadership, Leadership Skills, Mac OS, Managing, meetings, MS office suite, Windows, 98, multi-tasking, oracle
+applications, Organization Development, performance appraisal, Performance Management, Policies, process improvement, processes,
+Promotion, Recruitment, recruiting, Sales, settlements, strategic, survey Design, time management
+Additional Information
+I have a valid H1B visa to be employed in the US.
+XLRI 2012 Investigation Procedures and reporting Edison, NJ TCS and Freeh Group International Additional Details Current Location
+Cincinnati, OH Passport Details Passport # J 9138762 Issued at Thane, India on 04/10/2011 Valid up to 03/10/2021 Visa Details Visa
+Type - H1B - Transferable'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+30,C068,P,14.8,0/6,0,"Candidate P has an overall match of 14.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 8.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Aviation Management And Operations Florida Institute Of Technology-Melbourne City , State
+Dean's List Honoree semester one 2020
+3.2 GPA
+High School Diploma Olympia High School Jun 2017 City , State
+Technical Degree : Hotel And Resort Management Orange Technical College May 2016 City , State
+Some College (No Degree) : Sports And Marketing Mangement Orange Technical College City , State
+3.85 GPA
+Some College (No Degree) .
+Accomplishments
+Consistently maintained high customer satisfaction ratings.
+Certificate of accommodation (USMC) and
+Navy and Marine Corps Achievement Medal'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+31,C091,BUSINESS DEVELOPMENT MANAGER,14.7,0/6,0,"Candidate BUSINESS DEVELOPMENT MANAGER has an overall match of 14.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 7.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'May 1999
+Bachelor of Science : Technology and Management University of Bradford ï¼​ State , UK Technology and Management
+Skills
+Salesforce, Siebel, Fox and Bullhorn CRM/ATS experience.Â'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+32,C011,LEAD PHARMACY TECHNICIAN ADVOCATE  SUPERVISOR,14.5,0/6,0,"Candidate LEAD PHARMACY TECHNICIAN ADVOCATE  SUPERVISOR has an overall match of 14.5%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 15.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Bachelors : Behavior Science , March 2015 Bellevue University ï¼​ City , State Behavior Science
+National Pharmacy Technician Certification (PTCB) 2012-Present *Certification for Nebraska Pharmacy Technician : General Studies , 2012
+Metro Community College ï¼​ City , State General Studies
+Skills
+streamline, basic, budget, business development, Maintain calendar, Case Management, charts, communication skills, customer service, data entry,
+documentation, fast, filing, insurance, inventory, inventory control, leadership, Director, managing, marketing, office equipment, Assist patients,
+Pharmacy Technician, profit, quality, receiving, record keeping, retail, safety, sales, scheduling, seminars, staff development, strategic planning,
+supervision, technician, phones, translator, written'. Semantic matching scores the candidate 15.8% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+33,C006,SUPERVISOR ACCOUNTANT,14.4,0/6,0,"Candidate SUPERVISOR ACCOUNTANT has an overall match of 14.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 7.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Business Administration : Business Development Strategy, Management , May 2008 Pepperdine University, Graziadio School of
+Business and Management ï¼​ City , State Business Development Strategy, Management
+Bachelor of Science : Finance Spanish , May 2004 University of New Orleans ï¼​ City , State Finance Spanish
+Languages
+Fluent in English and Spanish (proficiency has decreased due to moderate use).
+Skills
+Account reconciliations, accounting, accounts payable, accounts receivables, accruals, ad, AP, balance sheet, balance, bank reconciliations, billing,
+bookkeeping, book, budgeting, budget, Business Objects, charts, oral communication, CPA, databases, Fluent in English, senior management,
+finance, financial, financial analysis, financial reports, Financial Reporting, financial statements, fixed assets, forecasting, general ledger, general
+ledger accounts, Government, graphs, Harvard Graphics, JDE, Lotus Notes, Access, MS Access, Excel, Microsoft Office, office, PowerPoint,
+PowerPoint presentations, Windows 95, month-end closing, payroll, PeopleSoft, People Soft, presentations, QuickBooks, Quicken, reporting,
+SAP, SOX compliance, Sarbanes Oxley, Spanish, tax, television, variance analysis, Excellent written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+34,C010,ACCOUNTANT,14.3,0/6,0,"Candidate ACCOUNTANT has an overall match of 14.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 7.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Texas A&M Commerce
+December 2017
+Masters of Science : Accounting Baylor University Accounting GPA: 3.58
+August 2015
+Bachelor of Business Administration : Accounting Accounting GPA: 3.0 GPA: 3.28
+Skills
+account reconciliations, accounting system, accounts payable, process payroll, spreadsheets
+Additional Information
+Buffalo Creek Golf Club, Rockwall, TX May 2012-August 2012 Maintain golf carts and driving range Activities/Achievements President's
+Gold Scholarship Awarded 7,500/year for exemplary academic performance in high school and maintaining 3.0 cumulative GPA in
+undergrad Zeta Zigga Zamma (20012 - 2015) Mission Trips (2003, 2005, 2006, 2011) Bonaire (2003,2005) - Vacation Bible School
+helper Santa Gertrudis, Mexico (2006) - Building houses, testimony Victory Ranch; Eastover, South Carolina (2011) - Prepping location
+for Army retreat, shared testimony with army men'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+35,C076,Kristy Bishop,14.1,1/6,0,"Candidate Kristy Bishop has an overall match of 14.1%. They possess 1 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma , General Studies / Psychology & Business St. Johns River State College ï¼​ City , State , USA
+General Studies / Psychology & Business
+Skills
+communication skills, excellent customer service, account management, data entry, directing, documentation,project development, computer
+proficiency,customer satisfaction , inventory, team leadership, marketing plans, market research, marketing,negotiation, networking, organizational
+skills, product management, profit, retail, sales, business development.SQL, active listener, creative problem solver'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+36,C090,DIVISION OPERATIONS  RISK OVERSIGHT MANAGER,14.1,0/6,0,"Candidate DIVISION OPERATIONS  RISK OVERSIGHT MANAGER has an overall match of 14.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 15.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2011 Villanova University Certificate
+2004 Bachelors of Arts and Applied Science (BAAS) : University of North Texas - Applied Technology and Performance Improvement City ,
+State GPA: Cum Laude Cum Laude Applied Technology and Performance Improvement
+2002 Certificate in Computer Network Technology Associate (CNTA) : Southern University City , State
+2001 Associate of Science : Southern University - Computer Science City , State Computer Science
+Associate of General Studies : Mathematics Mathematics
+Skills
+accruals, budget, call center, change management, Counseling, financial, financial management, forecasting, functional, HR, invoicing, leadership,
+Director, Mod, network support, Network, processes, procurement, profit, Project Management, quality, quality assurance, QA, reporting, risk
+management, sales, strategic planning, vendor relations'. Semantic matching scores the candidate 15.1% higher than the keyword baseline, indicating they possess highly relevant contextual experience and projects that traditional keyword matching missed."
+37,C077,MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II,13.9,0/6,0,"Candidate MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II has an overall match of 13.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 14.9% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'City , State 
+2008
+Remington College 
+City , State 
+Special Skill/ Certifications Associate Degree Computer Networking Excel, Linux, Ms Word, and Right Fax Adobe Creative cloud Economic
+Major
+Skills
+Adobe, Photoshop, streamline, Attorney, audio, closing, Hardware, Computer Networking, client, clients, Customer Service, decision making,
+equity, senior management, Fax, Help Desk, InDesign, inventory control, IP, lighting, Linux, litigation, managing, materials, meetings, Excel, Ms
+Word, multi-media, processes, quality, quality assurance, quality control, reporting, research, sales manager, sound, surveys, Trainer, training
+programs, underwriting, video, VOIP, workflow'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+38,C041,Professional Summary,13.8,0/6,0,"Candidate Professional Summary has an overall match of 13.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Northeastern State University May 2015 Masters of Education : School Administration City , State School Administration
+University of Oklahoma May 2003 Masters of Library City , State
+Northeastern State University December 1998 Bachelor of Arts : Education English City , State Education English
+Secondary Principal, test taken 7/2014 Library Media Specialist, PK - 12 American Literature, 7 - 12 English Literature, 7 - 12 World Literature,
+7 - 12 Grammar and Composition, 7 - 12
+Affiliations
+Software & Information Industry Association 2014, 2013 SIIA CODiE AWARDS Oklahoma Library Association Oklahoma Sequoyah Award
+Committee - Administrative Team Chairman Oklahoma Sequoyah Award Intermediate Reading Team Oklahoma Sequoyah Award Young Adult
+Reading Team Intellectual Freedom Committee American Library Association/Young Adult Library Services Association Outreach to Young
+Adults with Special Needs Committee
+Accomplishments
+Federal Emergency Management Agency (FEMA) Emergency Management Institute IACP: Juvenile Justice Training and Technical
+Assistance: Safe Schools COMMUNITY SERVICE: Oklahoma Medical Reserves Corp.
+OKMRC) JPS Foundation: Jenks Hometown Huddle.
+Skills
+curriculum development, educational programs, English, fundraising, funds, government, grants, instruction, lesson plans, profit, promotional
+material, reading, research, strategic marketing, teacher, author, Composition'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+39,C018,PERSONAL BANKERSAFE AND BUSINESS ADVOCATE,13.7,0/6,0,"Candidate PERSONAL BANKERSAFE AND BUSINESS ADVOCATE has an overall match of 13.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor's Degree , Social Work St. Bridget's College ï¼​ City , Philippines
+Passed the Licensing exam in Social Work
+Skills
+Leadership
+Marketing
+Motivation
+Multi-unit Operation Management
+Negotiation Skills
+New Business Development
+Operations Start-Up
+Organizational Restructure and Change
+Outsourcing
+Performance Analysis
+Problem Resolution Project Management
+Project Planning
+Public Relations
+Sales, Sales Analysis
+Service Quality Improvement,
+Staff Development
+Staff Motivation,
+Staff Training
+Change Implementation
+Communication Skills
+Community Outreach
+Cross-Cultural Communications
+Customer Relations
+Departmental Operations Management
+Diverse Market/Industry Knowledge
+Event Management and Promotion
+Expense Control
+Fast Learner
+Hard-worker
+Interpersonal Skills
+Staff-Retention Programs
+Start-Ups and Acquisitions
+Team Building
+Team Leadership
+Team Player'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+40,C092,BUSINESS DEVELOPMENT MANAGER,13.7,0/6,2,"Candidate BUSINESS DEVELOPMENT MANAGER has an overall match of 13.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 2 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 14.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Attended numerous training seminars in sales, management, team building, and leadership
+Accomplishments
+Won Supplier of the Year awards from Skyworks and IRC in 2012 and 2013 Team Builder: Certified Draw Success Trainer for Team
+Development and Success Sales
+Training: Certified in AMA, Miller Heiman and Mike Bosworth Solution Selling Techniques
+Coaching: Certified IPEC (Institute of Professional Excellence in Coaching) Coach Certified Life Solutions Coach for Personal Empowerment for
+Individuals and Teams Negotiation
+Certified Karrass negotiator
+Affiliations
+Industry Associations Member of Fab Owners Association Technical Program Committee Member of CS Mantech
+Additional Information
+Kyle Cease Meditation Retreat 2019
+Tony Robbins UPW Event 2016
+Michael Beckwith Program 2019
+Dr. Joe Dispenza Follower
+Skills
+Key decision making
+Team leadership
+Marketing
+Verbal and written communication
+Strategic planning
+Excellent at Networking
+Relationship building and management
+Conflict resolution
+Goals and performance
+New business development
+Territory management
+Account management
+Product and service sales'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+41,C036,DIRECTOR OF PRODUCT DEVELOPMENT,13.6,0/6,0,"Candidate DIRECTOR OF PRODUCT DEVELOPMENT has an overall match of 13.6%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : Clothing and Textiles. Focus in Fashion Design , 2010 California State University - City , State , USA
+Professional Affiliations
+Member, Small Business Association (2008 - present) Member, Alumni Association
+Skills
+Adobe Illustrator, Photoshop, Excel, Power Point, Word
+Excellent organizational skills. Team player. Works well under pressure.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+42,C061,Career Focus,13.3,0/6,0,"Candidate Career Focus has an overall match of 13.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 13.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2014 Aviation Warfare Operator-A1 A School - City , State , US Select One, On The job training for Electronic Warfare Operator 8 moth
+school dedicated to familiarize the student with the Boeing 737 platform. learned in-flight emergency procedures, crew resource management skills,
+system operations, preformed basic aircraft maintenance. Acoustic/ Radar signal interpretation
+High School Diploma 2012 Naval Aircrew Candidate School - City , State , US 4 week school to make sure we are qualified to fly. Aviation
+Physiology, Combat First aid, Aviation mis-hap survival skills, familiarization with all aircrew fixed and rotary wing aircraft, crew resource
+management skills
+Moon Valley High School - City , State , US
+Accomplishments
+Received Global War on Terrorism Service Medal. Maintained 100% accountability of a large aircraft equipment and tools worth over $1million
+on a daily basis. Promoted twice at Discount Tire in less then a year. Highest scoring student in the training program at Progessive Leasing. I hold
+the best QA grades out of all in my hire group.Â'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+43,C078,BANKING CENTER MANAGER ASSISTANT VICE PRESIDENT,13.2,0/6,0,"Candidate BANKING CENTER MANAGER ASSISTANT VICE PRESIDENT has an overall match of 13.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.3% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '1 2012
+Principles of Accounting-Jackson College (2013) Communication and Social/Organizational Change-Central Michigan University Graduate
+Program (2013) Introduction to Probability and Statistics-Jackson College (2012) Human Resource Management-Central Michigan University
+Graduate Program (2012). Organizational Dynamics and Human Behavior-Central Michigan University Graduate Program
+1 2002
+Bachelor of Science Michigan State University
+Skills
+Accounting, Assistant Manager, banking, benefits, branding, budgeting, business development, call center, Coach, cold calling, clientele, client,
+clients, customer service, direct sales, Financial, Human Resource, instructing, team building, leadership, team development, law, marketing,
+market, mechanical, meetings, Mentor, Office, negotiations, networking, Organizational, performance management, policies, presentations,
+processes, producing, quality, real estate, retail, risk management, sales, sales management, Statistics, trainer
+Additional Information
+Licenses: NMLS (2012-Present) Series 6 and 63 (2009) Life Insurance (2008) Michigan Real Estate (2004) Property and Casualty
+(2003)
+Professional Affiliations
+Brooklyn Irish Hills Chamber Member (2012-Present). Grass Lake Regional Chamber- Member (2011). Grass Lake Regional Golf Outing
+Committee (2011, 2012). Grass Lake Regional-Board of Directors Member (2011, 2012). Head of Manchester Area Chamber of Commerce
+Activity Committee (2007-2010). Manchester Chicken Broil Event Volunteer (2007-2010, 2014). Manchester Area Chamber Golf Outing-
+Committee Member (2007-2010). Manchester Area Youth Soccer Association-Volunteer Coach (2010). Co-Chair for March of Dimes-
+Comerica Bank Team (2007-2008).'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+44,C037,OWNER SENIOR GRAPHIC DESIGNER  UX DESIGNER  APP DEVELOPER,13.1,0/6,0,"Candidate OWNER SENIOR GRAPHIC DESIGNER  UX DESIGNER  APP DEVELOPER has an overall match of 13.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : 5 2012 Hebert H. Lehman College - City , State
+Psychology Fine Arts
+Art Design coursework
+Sketching, Drawing, sculpture, painting
+Advanced Illustration coursework
+Industrial psychology
+experimental psychologyÂ 
+Social psychologyÂ 
+Statistics
+Certificate in Field Production : - City , State
+Student government representative
+Graphic Specialist Certificate : The Mac Learning Center - City , State
+CNC Operator Basic Vocational Certificate
+Coursework in Sheet Metal Drafting and Mathematics
+Graphic and Digital Design Certificate
+Certificate in Pattern Making and Fashion Design : Mayor Fashion Institute - City , State
+Pattern makingÂ 
+Sewing
+Sketching
+Certificates in Fashion and Commercial Photography Abiezer (Victor) Mota 1630 Research Ave : - City , State
+Coursework in Sheet Metal Drafting and Mathematics
+Quality Technology Certificate
+CNC Operator Basic Vocational Certificate
+Online Portfolio: http://victormotanyc.wix.com/abiezer-mota Mobile: 917-773-6397 : - City , State
+Accomplishments
+Awarded by [School Name] for increasing class art budget.
+Employee Recognition Award Nominee in [Year] .
+Honorary volunteer Graphic Designer for [Foundation Name] in [Year] .
+[Show name] design challenge finalist in [Year] .'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+45,C032,COFOUNDER  SALES  MARKETING COORDINATOR,13.0,0/6,0,"Candidate COFOUNDER  SALES  MARKETING COORDINATOR has an overall match of 13.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'May 2015
+Master of Science : Sport Management THE UNIVERSITY OF TENNESSEE ï¼​ City , State Sport Management
+Master's THE OHIO STATE UNIVERSITY ï¼​ City , State Brand Awareness for Startup Companies: Avenues for Building and Sustaining
+Brand Awareness
+June 2011
+Bachelor : Recreation & Sport Leadership Business Administration/Marketing Recreation & Sport Leadership Business Administration/Marketing'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+46,C062,OPERATION MANAGER,12.9,0/6,0,"Candidate OPERATION MANAGER has an overall match of 12.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Business Administration , Current 
+Trident University International - City , State 
+Professional Development (United States Army)
+- Structured Self DevelopmentÂ [2013]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â 
+- Manager Development CRS [2006]Â Â  - Systems Approach to Training BasicÂ [2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â 
+Â Â Â Â Â Â Â Â Â Â  Â - Action Officer Development [2006]Â  - Supervisor
+DevelopmentÂ [2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â - Safety Course [2006]Â Â Â Â  Â Â Â Â  Â Â Â Â  Â Â Â Â  Â Â Â Â  - Training Developer (Middle Manger)
+[2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â - Hazardous Materials/Waste Handling [2006] - Injury
+Prevention Through LeadershipÂ [2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  - Aircraft Structural Adv LDR [2002]Â Â Â  Â Â Â Â Â 
+Â Â Â Â  Â Â Â Â  Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â  - Composite Risk Management
+CRSÂ [2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  - Basic Noncommissioned Officer [2002]Â Â Â Â Â Â Â Â Â Â  -
+Army Basic InstructorÂ [2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  - Total
+Army Training System (TATS) [1999]Â Â Â Â Â  Â Â Â Â  Â Â Â Â  - Support Cadre Training [2010]Â Â Â Â Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  - Primary Leadership Development [1999] - Aircraft
+Component Repairer Supervisor Senior LDRÂ [2007]Â Â Â Â Â  - Leadership Development [1999] - Supervisor
+DevelopmentÂ [2006]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+47,C038,FINE APPAREL DEPARTMENT MANAGER,12.6,0/6,5,"Candidate FINE APPAREL DEPARTMENT MANAGER has an overall match of 12.6%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 5 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.3% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : Graphic Arts/ Business Loyola University ï¼​ City , State
+Minor Business/Jewelry design
+Fluent in English and Spanish
+Skills
+Microsoft Excel, Word, Power Point
+Trend analysis
+Ability to quickly adapt to changing markets
+Established track record of customer focused sales growth
+Ability to deliver results against goals build effective, motivated teams, foster teamwork, and demonstrate sound business judgment
+20+ years related management experience
+Business Acumen
+Building Effective Teams
+Customer Focus
+Developing Direct Reports and Others
+Drive for Results
+Interpersonal Savvy
+Managing and Measuring Work
+Managing Vision and Purpose
+Motivating Others
+Problem Solving
+Ability to Asses People
+Consistently striving for excellence'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+48,C042,MIDDLE SCHOOL PRINCIPAL,12.4,0/6,0,"Candidate MIDDLE SCHOOL PRINCIPAL has an overall match of 12.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Western Michigan University December 2000 Master of Arts : Educational Leadership City , State Educational Leadership
+Hillsdale College May 1993 Bachelor of Arts : English and Psychology City , State English and Psychology
+Secondary Teaching Certificate
+Interests
+Advanced Math 7 and Algebra I added to MS Curriculum Lego Robotics Girls on the Run National Junior Honor Society HCMS participates in
+American Heart Association's Red Out Game Additional Clubs added at middle school: Football, Lacrosse, and Competitive Cheerleading
+VOLUNTEER EXPERIENCE Girls on the Run, Calhoun County, MI American Heart Association, Kalamazoo, MI
+Professional Affiliations
+Michigan Association of Secondary School Principals National Association of Secondary School Principals Association Supervision for
+Curriculum Development Harper Creek Optimist Club
+Additional Information
+Advanced Math 7 and Algebra I added to MS Curriculum Lego Robotics Girls on the Run National Junior Honor Society HCMS
+participates in American Heart Association's Red Out Game Additional Clubs added at middle school: Football, Lacrosse, and Competitive
+Cheerleading VOLUNTEER EXPERIENCE Girls on the Run, Calhoun County, MI American Heart Association, Kalamazoo, MI
+Skills
+academic, Administrative, approach, book, drivers, legal, meetings, Negotiating, Programming, Teaching'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+49,C064,PRODUCTION SUPERVISOR  VALUE STREAM LEADER,12.4,0/6,0,"Candidate PRODUCTION SUPERVISOR  VALUE STREAM LEADER has an overall match of 12.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 12.3% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'GRADUATE : 1998 John Wood Community College ï¼​ City , State
+May, 1987 Quincy Senior High School ï¼​ City , State
+Personal Information
+Fishing, Spending time with family and friends. Strengths Adaptable and flexible, Self starter, Highly motivated
+Additional Information
+Awards received Honorable Discharge, US Navyâ€¦â€¦â€¦â€¦â€¦â€¦â€¦April, 1997 Confidential Security Clearance, US Navyâ€¦â€¦â€¦Sept
+93- Apr 97 Airman of the Month Awardâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦. Nov, 1996 Airman of the Year Awardâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.1996
+Interests Hunting & Fishing, Spending time with family and friends. Strengths Adaptable and flexible, Self starter, Highly motivated
+Skills
+blue print reading, blueprints, calibration, CNC, grinders, lathes, machinery, machining, weapons, natural, oil, quality, reading, recording,
+schematics, supervision, test equipment, transportation, Troubleshooting'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+50,C079,MARKETING AND CORPORATE COMMUNICATIONS MERCHANT SERVICES TRANSITION COMMUNICATIONS PROJECT,12.1,0/6,0,"Candidate MARKETING AND CORPORATE COMMUNICATIONS MERCHANT SERVICES TRANSITION COMMUNICATIONS PROJECT has an overall match of 12.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 11.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Villanova University - Six Sigma Green Belt Certification 2010 Advanced Project Management Certification and Project Management Essentials
+2007 WBT Education Credits - Compliance and Project Management Courses - 7.25 CH 2012-2013 Continuing Ed Credits - Various business
+and financial service-related courses - 35+ PDUs 2013 King's College City , State
+Diploma : Secretarial Science 1983 Secretarial Science
+Skills
+Adobe, Ad, basic, budget, business solutions, change management, Citrix, Interpersonal Skills, consolidations, content, Client, database, direct
+mail, directing, direction, documentation, edit, email, financial, functional, Information Technology, leadership, marketing plan, marketing, marketing
+collateral, materials, mail, Microsoft Office, PowerPoint, MS Project, negotiating, Negotiation, organization skills, Print Production, problem
+solving skills, processes, Project Management, Project planning, project plans, proofing, quality, Relationship Management, reporting, research,
+RFI, scheduling, Six Sigma, Spreadsheet, time management, Visio, Written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+51,C026,BUDGET ANALYST SERIES,11.9,0/6,0,"Candidate BUDGET ANALYST SERIES has an overall match of 11.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 11.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma 1983 Southeast High School ï¼​ City , State , USA
+Awards
+Performance awards: 2008/2009/2010/2011/2012/2013/2014/2015
+Time off award: 2004 (8 hours), 2005 (2 hours)
+Spot award: 2005
+End of year award: 2005
+Cash awards for Superior Service: March/October 1995
+Cash awards for Superior Service: 1996/1997/1998/1999/2000/2001
+Selected as Civilian of the Year for Fiscal Year 1997
+Department of Army Commendations: 1993/1994/June and December 1996
+Training
+GSA National Safety Council Defensive Driving Course. (2016)
+Contracting Officer Representative with a Mission Focus (2016)
+On-lline Training for Contracting Officer's Representative (2016)
+FAC-COR Lever II Course (2013)
+Contracting Officer's Representative Course (2011)
+CON 120: Appropriations Law (2010)
+Improved Statement of Work (2009)
+Contracting Overview (2009)
+Overview of Acquisition Ethics (2009)
+Contracting Officer Representative with a Mission Focus (2009)
+Market Research (2009)
+CON 110: Mission Focused Contracting (2008)
+Simplified Acquisition Procedures (2008)
+Dunn and Bradstreet (2003)
+Seven Habits of Highly Effective People (2006)
+Management Development (2000)
+Supervisor Correspondence (2000)
+Human Resource Correspondence (2000)
+Leadership Education and Development (1997)
+Develop and Administer Budget (1995)
+Budget Execution (1995)
+Basic financial Budgeting (1995)'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+52,C049,CERTIFIED CUSTOM FRAMER,11.7,0/6,0,"Candidate CERTIFIED CUSTOM FRAMER has an overall match of 11.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 11.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma : 2014 Trinity High School ï¼​ City , State , United States
+4.3 GPA
+Graduated with Honors
+Business manager on yearbook staffÂ'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+53,C060,CENTRALIZED ADMINISTRATIVE SUPPORT,11.3,0/6,0,"Candidate CENTRALIZED ADMINISTRATIVE SUPPORT has an overall match of 11.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 10.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Health Education and General Science 2015 Jackson State University ï¼​ City , State Health Education and General Science
+Skills
+Software: Salesforce.com, Desktop Publishing Software: Photoshop, Illustrator, Scheduling appointments, Addressing customer concerns, special
+events, sales, arranging travel, andÂ tutoring
+Interests
+Community service, Networking organization events
+Activities and Honors
+2015 Magna cum laude graduate, Dean's List Scholar, Phi Kappa Phi Honor Society, Golden Key International Honour Society'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+54,C070,CONTINUOUS IMPROVEMENT,11.3,0/6,0,"Candidate CONTINUOUS IMPROVEMENT has an overall match of 11.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 2.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'BS : Aviation Business Administration, Safety , 2018 Embry-Riddle Aeronautical University ï¼​ City , State , US BS in Aviation Business
+Administration with a minor in Safety Embry-Riddle Aeronautical University - Daytona Beach, FL 2015 to 2018
+Master : 2014 Six Sigma Villanova University ï¼​ City , State , US Master Certificate in Six Sigma Villanova University - Villanova, PA 2014 to
+2014
+AS : Aviation Maintenance , 2010 National Aviation Academy ï¼​ City , State , US AS in Aviation Maintenance National Aviation Academy -
+Clearwater, FL 2008 to 2010 Fiber Optic Repair
+Military Experience
+E5-SGT 
+August 2001 to January 2009 Company Name
+Service Country: United States Branch: Marine Corp Rank: E5-SGT August 2001 to January 2009 As an aviation electronics technician, I
+repaired electronics aircrafts systems, troubleshot, repaired and replaceable electronic components. Gained knowledge in reading and
+comprehending schematics and diagrams. I also performed routine maintenance on test benches and equipment. When I achieved the rank of E3
+LCPL, I gave instruction on troubleshooting and repairing solid state devices. I was also responsible for Inspecting and maintaining electronic test
+equipment. As a Marine Security Guard I protected three different Embassies around the world. I monitored and safeguard classified material and
+Embassy personnel. I was trained in diffusing hostile situations and I investigated security and safety violations and wrote over 300 detailed incident
+reports.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+55,C094,GLOBAL BUSINESS DEVELOPMENT MANAGERMARKETING,10.7,0/6,0,"Candidate GLOBAL BUSINESS DEVELOPMENT MANAGERMARKETING has an overall match of 10.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2002 Bachelor of Arts : West Virginia State University - Marketing City , State , US
+Â 3.5 GPA
+Â  Dean's list from 1998-2002
+Â Coursework in Business Administration and Management 
+Interests
+Enjoy coaching children in both (basketball and baseball).
+These are my passions. I'm a member of South Charleston First Church of Nazarene, teaching classes and helping with charities, like Heart
+and Hand Organized grant funding and community support for Active Kids program; fighting local childhood obesity, established in 2002.
+Continues to be implemented in Kanawha County Schools
+Running and lifting weights, camping, fishing and kayaking.
+Skills
+Sales Software CMR's: Salesforce.com, Salesloft, Sales Genius and Rainking.
+Proficient in all Microsoft Office products.
+Additional Information
+COMMUNITY INVOLVEMENT AND AWARDS
+_______________________________________________________________________ 2012 Awarded Buzz Food Companies
+Spirit of Generosity Award 2006-2007 Education Employment and Training employee of the year 2007-2009 WV Association of
+Rehabilitation Facilities award for outstanding placement of individuals with disabilities into community employment Member of South
+Charleston First Church of Nazarene, teaching classes and coaching basketball Community outreach with Heart and Hand Organized grant
+funding and community support for Active Kids program; fighting local childhood obesity, established in 2002. Continues to be implemented
+in Kanawha County Schools'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+56,C002,SENIOR ACCOUNTANT,10.4,0/6,0,"Candidate SENIOR ACCOUNTANT has an overall match of 10.4%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 9.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'City , State Accountancy 
+BBA GPA: Magna Cum Laude ~ Awarded GPA Improvement Scholarship Accountancy Magna Cum Laude ~ Awarded GPA Improvement
+Scholarship
+Credentials & Training: Notary Public ~ Texas Real Estate Salesperson License ~ ACE Yellow Belt Training ~ CPR Certified ~ Super User
+Training in PeopleSoft 7.5 to 9.0 ~ Communication and Interpersonal Skills
+Personal Information
+Active Volunteer, Houston-Chevron Marathon and BP MS 150 (Calpine) . continued.
+Languages
+Fluent in Italian and dual US and Italian citizen ~ Conversational in Spanish
+Skills
+accounting, accruals, administrative, AP, A/P, AR, asset management, balance sheet, billing, Bloomberg, Citrix, closing, Interpersonal Skills, CPR
+Certified, Credit, Seagate Crystal Reports, clients, Data Management, documentation, fast, financials, financial, financial management and
+accounting, Financial Accounting, financial analysis, financial reporting, financial statements, forecasting, funds, General Ledger, GL, Hyperion,
+investment management, Italian, legal, managing, Materials, MS Office, natural gas, Notary Public, Oracle, PeopleSoft, PeopleSoft 7.5,
+PeopleSoft 9.1, pricing, processes, producer, Real Estate, reconciling, reporting, retail, SAP, Sarbanes-Oxley, scheduling, settlements, Spanish,
+tables, User Training, trading systems, Trading System, treasury, annual reports, year-end
+Additional Information
+Community Involvement: Active Volunteer, Houston-Chevron Marathon and BP MS 150 (Calpine) . continued.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+57,C001,ACCOUNTANT,10.3,0/6,0,"Candidate ACCOUNTANT has an overall match of 10.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '1993
+Bachelor of Science : Accounting & Finance University of South Carolina - Upstate ï¼​ City , State Accounting & Finance
+Skills
+account reconciliation, account reconciliations, accounting, Accountant, general accounting, Accounting Management, Accounting system,
+accounts payable, acquisitions, ABC, AIA, AP, AR, auditing, balance sheet, reconciling bank statements, billing, billings, bridges, broadcast,
+budgets, business plan, cash flow, Cash Management, conversion, customer service, database management, delivery, driving, editing, financial,
+forecast financial, financial forecasts, financial management, financial reports, financial reporting, financial statements, Fixed Assets, general ledger,
+Government, inventory, job costing, managing, Excel, office, Microsoft Word, payroll, Peachtree, Peoplesoft, personnel, problem-solving skills,
+property management, quality, QuickBooks, real estate, reporting, Retail, safety, sales, Solomon, tax, taxes, tax return preparation, tax
+preparation, teamwork, Timberline, upgrade, variance analysis, written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+58,C067,journeyman electrician,10.2,0/6,0,"Candidate journeyman electrician has an overall match of 10.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'CONSOLIDATED AUTOMATED SUPPORT SYSTEM (CASS) ADVANCED MAINTENANCE/CALIBRATION INTERMEDIATE
+MAINTENANCE October 2011 City , State Top 10% of class Upon completion of the course, became able to program, debug, install, and
+verify the effectiveness of a software package (ATLAS) used to provide a consolidated response to testing requirements in an intermediate
+aviation repair shop; and operate and repair a pneumatic generator, a device used to simulate air pressures experienced by an aircraft during flight.
+DIPLOMA November 2010 Sequoyah High School , City , State GPA: Top 10% of class Top 10% of class Top 10% of class Advanced
+Electronics and Components - Pensacola, Florida Top 20% of class Upon completion of the course, became able to perform mathematics for
+analysis of AC/DC circuits; understand and troubleshoot digital logic circuits; perform troubleshooting of AM and FM RF systems; and
+troubleshoot transmi ers and receivers and antennas and waveguides.
+HIGH POWER DEVICE TEST SUBSYSTEM/RADAR INTERMEDIATE MAINTENANCE August 2011 Common Core Intermediate
+Maintenanace , City , State Top 10% of class Upon completion of the course, became able to perform both scheduled and unscheduled
+maintenance on an automated support system used at an intermediate level electronic repair facility. Top 10% of class Upon completion of the
+course, became able to operate, test, and perform maintenance on the high power device test subsystem using applicable operational test program
+sets. Military Schooling: September 2011 Fundamentals of Digital Logic by Correspondence Upon completion of the course, became able to
+recognize number system organization and arithmetic operations found in digital system; fundamental logic elements and functions of digital systems,
+i.e., AND, OR, NAND, and NOR gates; and electrical representations of logical functions. The student will be aware of monostable and bistable
+effects of flip flops and the use of flip-flop circuitry in the serial counting function, parallel shift operation, parallel to serial, and serial to parallel
+conversion. The summarize, upon completion, the student is prepared to learn troubleshooting techniques and schematic reading of digital systems
+using integrated circuit logic chip gates, flip-flops, latches, and shift registers. RTCASS AN/USM702 OPERATION AND MAINTENANCE
+Skills
+Basic, CALIBRATION, conversion, CPR certified, DC, Electronics, frame, Leadership, team leader, Logic, logistics, mathematics, office, Radar,
+reading, Safety, FM, Security Clearance, supervisor, switches, test equipment, troubleshoot, troubleshooting, verbal communication'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+59,C005,Microsoft Suite,10.0,0/6,0,"Candidate Microsoft Suite has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Science : Taxation LIU ï¼​ City , State Taxation
+Core focus in Tax Accounting January 2018 - Present Relevant Coursework: Insurance and Qualified Employee Benefit, Employee Benefit and
+Retirement Planning, Advanced Corporate Taxation, and Tax Research
+Bachelor of Science : Accounting Hunter College ï¼​ City , State Accounting
+Core focus in Financial Accounting
+Bachelors of Science
+Accounting Principles I & II, Computer Information Systems (Microsoft Office Suites), Accounting Applications on Microcomputers
+(QuickBooks), Cost Accounting I, Introduction to Business, Intermediate Accounting I, Intermediate Accounting II, Managerial Accounting,
+Advanced Accounting I & II, Auditing, Corporate Finance, Business Organization, Microeconomics, Macroeconomics, Economic statistics,
+Economic Development, Federal Income Taxation, Corporate Taxation, and Business Law I & II ACTIVITIES/CERTIFICATES Accounting
+Society of Hunter College Internal Revenue Service VITA/TCE Certificate (2015) Volunteer Tutor for Accounting
+Skills
+administrative duties, advertising, business operations, cash receipts, copying documents, Corporate Finance, Cost Accounting I, Data Analysis &
+Management, Filing, Financial Accounting, financial statements, preparation of financial statements, financial statement analysis, forecasting, sorting
+mail, payroll processing, Pivot tables, QuickBooks, sales, Sarbanes-Oxley, SAS, Tax Accounting, Tax Research, tax returns'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+60,C009,GENERAL ACCOUNTANT,10.0,0/6,0,"Candidate GENERAL ACCOUNTANT has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Science : Accounting Upper Iowa University ï¼​ City , State Accounting
+Bachelor of Science : Business Administration University of Illinois Business Administration Champaign/Urbana, IL 2015-16 Director of Finance -
+Hononegah Youth Soccer Association
+Skills
+accounting, AP, AR, balance sheet, Benefits, billing, cash flow, Cash Management, credit, Client, Finance, financials, Director, Payroll, year-end'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+61,C016,COMMUNITY ADVOCATE,10.0,0/6,12,"Candidate COMMUNITY ADVOCATE has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 12 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor's Degree : Human Services Management , 2017 University of Phoenix ï¼​ City , State , King
+Human Services Management In progress
+Training at YWCA Domestic Violence agency
+Skills
+administrative support, Counseling, creativity, client, clients, Customer services, Data Entry, database, event planning, financial, fund raising,
+leadership skills, Leadership Training, materials, mental health, Excel, mail, Microsoft Office, Outlook, PowerPoint, Publisher, Word, neat,
+cameras, policies, presentations, program development, progress, QuickBooks, reporting, risk management, safety, sound, phones, trauma, Type
+50 WPM, vision'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+62,C024,ECOMMERCE SUPERVISOR,10.0,0/6,0,"Candidate ECOMMERCE SUPERVISOR has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 8.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Electrical/Electronics Engineering Technology, AAS Presently attending Owens Community College - City , State GPA: 3.93
+2012 Active Participant in theÂ 5S program
+2010 Owens Community College - Toledo OH -Photovoltaic Certification
+2007 Training Assistant Position Workshop
+2006 Online/Phone course for Mentors of America
+2004 Participated in Best Buy Lean Team
+Graduate : 1998 Riverdale High School
+Skills
+attention to detail, continuous improvement, logistics, excel, power point, word, network, internet research, organizational skills, , safety, teamwork'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+63,C025,EXTENSION METHODOLOGIST,10.0,0/6,0,"Candidate EXTENSION METHODOLOGIST has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2011
+The Universty of Zambia ï¼​ City , State , Zambia Bachelor's degree : Agriculture
+B h l
+fA i lt
+l
+i
+(A i
+lS i
+j )
+Bachelor of Agricultural sciences (Animal Science major)
+2004
+Samfya Secondary School ï¼​ City , State , Zambia Bachelor of Agricultural sciences : General School Certificate
+Languages
+Excellent in both spoken and written English. Fluent in Bemba and in Nyanja
+Personal Information
+Ernest Mwale Mupemo
+C/O Ministry of Agriculture and Livestock
+P. O. Box 560001
+Petauke
+Skills
+COMPUTER LITERACY, E-mail, English, government, director, management consulting, Excel, PowerPoint, Microsoft word, policies, progress,
+research, SPSS, supervising, supervision, surveys, written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+64,C027,GRADUATE RESEARCH ASSISTANT,10.0,0/6,0,"Candidate GRADUATE RESEARCH ASSISTANT has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Science : Entomology - Qualifying 2016 Florida Agricultural & Mechanical University , City , State , United States 
+Bachelor of Science : Environmental Science 2011 Knox Community College , City , Jamaica
+Associate of Science : General Agriculture 2006 College of Agriculture Science and Education , City , Jamaica 
+Professional Affiliations
+Entomological Society of America (ESA)
+Florida Entomological Society
+Florida Agricultural & Mechanical University ESA debate team
+Minorities in Agriculture, Natural Resources and Related Sciences (MANNRS)
+Awards and Publications
+Reuben Capelouto Foundation and William L.Peters Memorial scholarship awardee 2013-2014 Monsanto 1890 Student Leadership Event
+participant, St.Louis Missouri, 2014
+Mentoring at Purdue Summer Scholarship Program participant West Lafayette, Indiana, 2014.
+ESA(Entomological Society of America). Annual Meeting. Portland, Oregon. Developing a Biological Control Measure for the Management of an
+Invasive Scale Insect, Phalacrococcus howertoni (Hemiptera,Coccidae) in South Florida ""Published Abstract.
+ESA (Entomological Society of America). Annual Meeting. Portland, Oregon. â€œWhat is the single best tool to reduce malaria cases throughout
+the world? â€œPublished Article , 2014
+Skills
+Data collection, maintain inventory,statistical analysis, prepare sample and Microsoft office'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+65,C030,GRADUATE RESEARCH ASSISTANT,10.0,0/6,0,"Candidate GRADUATE RESEARCH ASSISTANT has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Master of Science : Entomology - Qualifying 2015 Florida Agricultural & Mechanical University , City , State , United States 
+Bachelor of Science : Environmental Science 2011 Knox Community College , City , Jamaica 
+Associate of Science : General Agriculture 2006 College of Agriculture Science & Education , City , Jamaica
+Affiliations
+Entomological Society of America (ESA)
+Florida Entomological Society
+Florida Agricultural & Mechanical University ESA debate team
+Minorities in Agriculture, Natural Resources and Related Sciences (MANNRS)
+Awards & Publications
+Reuben Capelouto Foundation and William L.Peters Memorial scholarship awardee 2013-2014
+2014. Monsanto 1890 Student Leadership Event participant ,St.Louis Missouri
+2014. Mentoring at Purdue Summer Scholarship Program participant, West Lafayette, Indiana.
+2014. ESA(Entomological Society of America). Annual Meeting. Portland, Oregon. Developing a Biological Control Measure for the
+Management of an Invasive Scale Insect, Phalacrococcus howertoni (Hemiptera,Coccidae) in South Florida ""Published Abstract.
+2014. ESA (Entomological Society of America). Annual Meeting. Portland, Oregon. â€œWhat is the single best tool to reduce malaria cases
+throughout the world? â€œPublished Article
+Skills
+Data collection, Maintain inventory, Statistical Analysis, Prepare samples
+Microsoft office, Statistical Analysis Software (SAS)'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+66,C044,STUDENT TEACHER,10.0,0/6,0,"Candidate STUDENT TEACHER has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Xavier University May, 2012 Masters : Education Secondary Education City , State Education Secondary Education
+Mount St. Joseph University May, 2004 Bachelor of Arts : Art Education City , State Art Education
+May, 2004 Bachelor of Fine Arts : Painting Painting
+Mount St. Joseph University May 1989 Associate of Arts : Graphic Design City , State
+Graphic Design
+Licensure Visual Arts Specialist, Grades PK-12, Ohio
+Interests
+SWOAEA Art Workshops Summer Teacher Institute, Cincinnati Art Museum Evenings for Educators, Cincinnati Art Museum Teacher
+Workshops, Cincinnati Contemporary Art Center Art Exhibitions & AWARDS Parallel Visions"", exhibition of regional art educators, Studio San
+Guiseppe Gallery Pendleton Arts Center, studio exhibitor, July - December 2004 Life and Times of Education"", annual juried exhibit of college
+student artwork, OAEA and STRS Gallery, Columbus, Ohio, 2001 - 2004, 2004 Award Winner MSJ Thesis Exhibit, Studio San Guiseppe,
+2004 MSJ Annual Student Exhibit, faculty selected artwork, Studio San Guiseppe, 2001 - 2004
+Skills
+Adobe, Photoshop, Arts, Art, com, exhibitions, Drawing, Illustrator, InDesign, Excel, Microsoft Office, PowerPoint, Word, reading, sculpture,
+website, workshops, written
+Additional Information
+OAEA Annual Conventions SWOAEA Art Workshops Summer Teacher Institute, Cincinnati Art Museum Evenings for Educators,
+Cincinnati Art Museum Teacher Workshops, Cincinnati Contemporary Art Center Art Exhibitions & AWARDS Parallel Visions"",
+exhibition of regional art educators, Studio San Guiseppe Gallery Pendleton Arts Center, studio exhibitor, July - December 2004 Life and
+Times of Education"", annual juried exhibit of college student artwork, OAEA and STRS Gallery, Columbus, Ohio, 2001 - 2004, 2004
+Award Winner MSJ Thesis Exhibit, Studio San Guiseppe, 2004 MSJ Annual Student Exhibit, faculty selected artwork, Studio San
+Guiseppe, 2001 - 2004
+Professional Affiliations
+National Art Education Association (NAEA) member, 2002 - present Ohio Art Education Association (OAEA) member, 2000 - present
+Southwest Art Education Association (SWOAEA) member, 2000 - present Cincinnati Art Museum member, 1989 - present Taft Art Museum
+member, 2000 - present SWOAEA Nuts and Bolts, art lesson exchange presenter'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+67,C047,ACTIVITY SPECIALIST,10.0,0/6,0,"Candidate ACTIVITY SPECIALIST has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: 'Bachelor of Arts : Professional Music , 2006 Berklee College of Music, Boston Mass ï¼​ City , State 
+Minor in Music Education
+Coursework in Music Education
+Berklee College of Music Deans List : 2006
+Received numerous letters of recommendation, and appreciation from Faculty and Staff
+Art and Music , 2004 Bayside High School Art and Music
+education Previously attended Berklee College of Music Bayside High School
+Gained music diploma for voice and music theory.
+Member of Bayside High School Choral Club
+Vocal Academic Achievement Award
+Interests
+Fitness, kickboxing, marathons
+Skills
+Photoshop, Set and Design , Peer Counseling, Customer Service, HTML, Microsoft Word, Retail/Sales, Supervision, Dramatic Theater,'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+68,C066,Career Focus,10.0,0/6,0,"Candidate Career Focus has an overall match of 10.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 100.0% based on credentials found: '2016
+Bachelor of Science : Information System Security Colorado Technical University ï¼​ City , State Pursuing BAS in Information System SecurityÂ 
+2012
+Certificate of Completion : Network Administrator Centriq Training ï¼​ City , State
+2011
+Bachelor of Science : Information Security Columbia Southern University ï¼​ City , State Pursuing BAS in Information Security'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+69,C055,CUSTOMER RELATIONS SPECIALIST,9.9,0/6,0,"Candidate CUSTOMER RELATIONS SPECIALIST has an overall match of 9.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 8.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma : General Studies Crenshaw High School ï¼​ City , State
+General Studies'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+70,C015,GRADATION CANDIDATE ADVOCATE,9.6,0/6,0,"Candidate GRADATION CANDIDATE ADVOCATE has an overall match of 9.6%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 7.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Bachelors of Science , Physical Education 2010 University of South Carolina ï¼​ City , State Physical Education
+Personal Information
+Self-motivated, team-oriented management of sales with demonstrated strengths in customer service and retail with ability to work in a fast-paced,
+energetic environment Combined strengths include excellent organizational and follow-up skills, time management and multi-tasking abilities;
+superior interpersonal and verbal communication skills Proactive and driven professional focused on achieving organizational goals Open
+availability and flexibility to work varied and extended hours to meet the needs of the business
+Affiliations
+Boy Scouts Of America 
+WCFL Youth Football LeagueÂ 
+Willing to relocate: Anywhere
+Skills
+Handle cash, Coaching, credit, customer satisfaction, customer service, delivery, inventory, Mentoring, merchandising, networking, organizing,
+quality, selling, sales, shipping
+Additional Information
+Willing to relocate: Anywhere Authorized to work in the US for any employer
+ADDITIONAL INFORMATION Self-motivated, team-oriented management of sales with demonstrated strengths in customer service and
+retail with ability to work in a fast-paced, energetic environment Combined strengths include excellent organizational and follow-up skills,
+time management and multi-tasking abilities; superior interpersonal and verbal communication skills Proactive and driven professional
+focused on achieving organizational goals Open availability and flexibility to work varied and extended hours to meet the needs of the
+business'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+71,C020,TRANSITIONAL HOUSING ADVOCATE,9.1,0/6,0,"Candidate TRANSITIONAL HOUSING ADVOCATE has an overall match of 9.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Associate of Science : Truckee Community College - Psychology City , State
+1995 Associate of Arts : Southwester Polytechnic Institute - General Studies City , State
+Interests
+Currently serve as a volunteer for the Sexual Assault Response Team (SART), provide support to victims in crisis, document vital information
+related to assault, and make appropriate referrals available victims.
+Additional Information
+Currently serve as a volunteer for the Sexual Assault Response Team (SART), provide support to victims in crisis, document vital
+information related to assault, and make appropriate referrals available victims.
+Skills
+Peer counseling, customer service, database, documentation, Internet Applications, Excel, e-mail, office, Outlook, Power Point, Publisher,
+Microsoft Word, Personnel, policies, presentations, safety, transportation'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+72,C052,SERVICES ENGINEER,9.1,0/6,0,"Candidate SERVICES ENGINEER has an overall match of 9.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Data Entry - Six Month Course : 1995 KARANATAKA INFOTEK (Regd ï¼​ City , India PUC 2Nd year
+Diploma : Computer Applications , 2002 F. B. INTERNATIONAL Computer School ï¼​ State , India Computer Applications
+Personal Information
+Name : Anand Father Name : Chikkegowdappa Date of Birth : 23.06.1975 Age : 37 Years Marital Status : Married
+Interests
+ANAND.C # 35,11TH cross road Kurubarahalli road, Muneshwara layout Laggere, Bangalore-560058
+Languages
+English, Hindi, Kannada, Tamil, Luganda (African Language spoken in Uganda)
+Skills
+Agency, consultation, Clients, Data Entry, Engineer, English, Hindi, lathe, Repairs, Sales, Supervision, television, wiring
+Additional Information
+CURRICULAM VITAE ANAND.C 35,11TH cross road Kurubarahalli road, Muneshwara layout Laggere, Bangalore-560058
+Personal Details : Name : Anand Father Name : Chikkegowdappa Date of Birth : 23.06.1975 Age : 37 Years Marital Status : Married
+Passport No : F 3905156 I, CHIKKEGOWDAPPA ANAND, hereby confirm that all the above details are true and to the best of my
+knowledge. Date : - 02-05-2014 Place: - Bangalore (INDIA) [ANAND.C]'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+73,C082,BPO TEAM LEADER,9.1,0/6,0,"Candidate BPO TEAM LEADER has an overall match of 9.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Producers License : Life and Health 2013 Kaplan City , State
+B.A : Business Administration 2018 Kaplan University City , State
+Associate of Science : Business Administration 1992 Northwestern Business College City , State Business Administration
+Pastoral Counseling 2014 New Hope Counseling School City , State
+B.A. (nonaccrediated) : Ministry and Biblical Studies 2014 International School of Ministry City , State
+Skills
+Administrative duties: Â Â Active Learning, Calendaring, Client Relations, Computer Proficiency, Coordination, Creative Problem Solving,
+Critical Thinking, Customer Needs Assessment, Customer Service,Â Data Entry, Documentation, Email, Executive Management Support, Filing,
+Grammar, Internet Research, Letters and Memos,Â ,Â Multi-Task Management, Organizational Skills, Prioritization,Â Scheduling, Service
+Orientation, Telephone Skills, Time Management, Travel Arrangements,Â  TypeÂ 85 WPM, Typing, Vendor Management, Documentation
+auditor.Â  Hospice Assistant, Human Resources assistant.Â Invoice processing,Â Â Order entry,Â Â Re-pricing of claims, Receptionist,
+Recruiting and trainer.Â  People skills : greatÂ enthusiastic people person, advanced problem-solving, great organizational skills.Â  Computer
+skills:Â  MS Office, Data entry, RIMS, SAP, Outlook, Data Warehouse Maintenance, Provider Maintenance Microsoft Excel, Microsoft Office
+Suite, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+74,C098,BUSINESS DEVELOPMENT MANAGER,9.0,0/6,0,"Candidate BUSINESS DEVELOPMENT MANAGER has an overall match of 9.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Skills
+Account management, business development, client relations, cold calling, computer literate, computer proficient, creative problem solving, CRM
+systems, customer needs assessment, customer satisfaction, customer service, expense control, lead development, marketing, multi-tasking
+management, reporting, sales, MS office, HTML coding, CNA certificate'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+75,C021,BEHAVIORAL INTERVENTIONIST,8.8,0/6,0,"Candidate BEHAVIORAL INTERVENTIONIST has an overall match of 8.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Awards & Accomplishments
+2011 ""Academic Organization of the Year"" honored by Delaware State University's Office of Student Leadership and Activities. *2011
+""Advisor of the Year"" honored Delaware State University's Office of Student Leadership and Activities.
+Community Involvement: 4-H Volunteer, Junior Achievement, Annual Thanksgiving Food Drive, Back to School Bash for Carbondale
+youth, ""I Can Read"" after school program, Delaware Highway Clean-up, Delaware Aids Walk, Bug and Bud Festival and DSU-Winter
+Clothing Drives.
+Skills
+SAS/SPSS statistical applications, Windows XP, MS Office, Adobe In-design 6, Banner Web & Baseline (Curriculum Advising and Program
+Planning, Early Alert System) and Drupal Content Management System (content manager for the College of Agriculture & Related Sciences;
+editing/creating information for university website).'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+76,C028,FINANCIAL INSTITUTION EXAMINER,8.7,0/6,0,"Candidate FINANCIAL INSTITUTION EXAMINER has an overall match of 8.7%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Skills
+accounting, Basic, Bloomberg, C, charts, Credit, credit risk, documentation, senior management, financial, Analyze financial statements, financial
+statements, Focus, funds, law, regulatory compliance, meetings, MS Excel, MS Office, PowerPoint, new construction, Oct, pivot tables,
+presentations, quality, QuickBooks, repairs, assess risk, Risk Management, Safety, SPSS, Supervision, tax returns, teamwork, training material,
+underwriting'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+77,C008,ACCOUNTANT,8.6,0/6,0,"Candidate ACCOUNTANT has an overall match of 8.6%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 6.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'BBA , Accountancy April 2010 Western Michigan University ï¼​ City , State Haworth College of Business
+Skills
+Creative problem solving skills.
+Advanced computer skills.
+Works great with others.
+Continuous initiative for process improvement.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+78,C007,ACCOUNTANT,8.2,0/6,0,"Candidate ACCOUNTANT has an overall match of 8.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Masters of Science , Accounting May 2011 Prairie View A&M University ï¼​ City , State Accounting
+BBA , Accounting Dec 2009 Prairie View A&M University ï¼​ City , State Accounting
+Professional Affiliations
+CPA Candidate Participated in various community activities, including the Phi Beta Lambda and National Association of Black Accountants Texas
+Society of CPA's Beta Gamma Sigma Greater Women's Chamber of Society Completed all the Research Operations Curriculum in 2015
+Skills
+account reconciliation, accounting system, AR, budget, business objects, closing, Contracts, Â financial analysis, financial controls, financial
+operations, financial reports, financial statements, GL, Grants, inventory, invoicing, ledger, Macros, Access, Excel, Microsoft Office, office,
+Outlook, PowerPoint, Word, Monitors, operating systems, PeopleSoft, policies, processes, procurement, reporting, Research, SAP, Sarbanes-
+Oxley, training materials, view'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+79,C069,AIR FREIGHT AGENT,8.2,0/6,0,"Candidate AIR FREIGHT AGENT has an overall match of 8.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '1987
+AS : Liberal Arts & Business College of Micronesia - City , State Liberal Arts & Business
+Skills
+customer service, delivery, documentation, Inspecting, coding, scanner, shipping'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+80,C043,LIBRARY,8.1,0/6,0,"Candidate LIBRARY has an overall match of 8.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma : Culinary Arts , 2008 McFatter Technical HIGH School ï¼​ City , State , United States
+Culinary arts certification
+Professional Affiliations
+Spirit committee Â 
+The purpose of the SPIRIT Committee is to support, promote, and improve relations between individuals on the team.
+Â 
+Our goals are to Â 
+â€¢Support existing programs at South Regional Library
+â€¢Provide opportunities for staff and faculty to interact socially
+â€¢Provide wellness programming for students, staff, and faculty
+Accomplishments
+Summer Youth Feeding Program Â 
+Broward County Libraries, in conjunction with Sisters for Abundant Living, provided free lunch and snacks for children Summer 2014 as part of
+the Library's Summer Reading Program. A partnership with the Florida Department of Agriculture and Consumer Services' Summer BreakSpot
+program brought free food to the community's underserved children.
+Generated a series of different activities for entertainment
+served free food to the community 18(yrs) of age and under
+Â 
+Out of System Books Â 
+Created an Excel document to keep track of all books and other materials returned to our branch location accidentally
+Documentation Â 
+Wrote and edited documents to keep staff informed on policies and procedures and current status of particular items.
+Â 
+Â 
+Interests
+Skills
+Credit, Page'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+81,C087,QUALITY ASSURANCE LEAD,8.1,0/6,0,Candidate QUALITY ASSURANCE LEAD has an overall match of 8.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: ''. Both keyword overlap and semantic contextual evaluations are closely aligned.
+82,C054,LIABILITY,8.0,0/6,0,"Candidate LIABILITY has an overall match of 8.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 5.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'B.S : Journalism Southern Illinois University ï¼​ City , State Journalism
+Skills
+Coverage analysis, Customer service, presentations, litigation management, claim investigations and time management.Â'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+83,C019,ADVOCATE,7.9,0/6,5,"Candidate ADVOCATE has an overall match of 7.9%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 5 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.9% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2018
+Business Administration Human Resources Argosy University Business Administration Human Resources
+2001
+Paralegal Studies Penn Foster University Paralegal Studies
+1997
+Cosmetology College National Beauty College
+1996
+High School Diploma : Business and Cosmetology W.W. Samuell High School Business and Cosmetology
+Skills
+adding machines, Balance, billing, bonds, budget, Business Administration, calculators, cashier, clerical, Coach, excellent communication,
+Consultant, client, customer satisfaction, excellent customer service, Data Entry, decision making, discharge planning, email, filing, financial, funds,
+Human Resource, managing, Microsoft Excel, exchange, mail, money, Microsoft Office, Microsoft Outlook, Microsoft Power Point, Microsoft
+Word, photography, Policies, problem resolution, processes, purchasing, quality assurance, receiving, maintain records, Research, Sales, SLA,
+sound, phone, transportation, treasury, type, typing, written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+84,C035,CASHIER,7.8,0/6,0,"Candidate CASHIER has an overall match of 7.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2017
+Chandler gilbert community college City , State , USA Associate of Arts : Early Childhood Education/English second language Currently Finishing
+up First year of college, Majoring inÂ Early Childhood Education/English second language
+2015
+Adult Education school City , State , USA GED : High school Graduated 2015
+Skills
+Problem Solving
+Adaptability
+Collaboration
+Strong Work Ethic
+Time Management
+Critical Thinking
+Self-Confidence
+Handling Pressure
+Leadership
+Creativity'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+85,C080,PROGRAM ASSISTANT,7.6,0/6,0,"Candidate PROGRAM ASSISTANT has an overall match of 7.6%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.4% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma : 1996 IOWA PARK HIGH SCHOOL ï¼​ City , State'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+86,C033,CREATIVE DIRECTOR  FASHION DESIGNER,7.5,0/6,10,"Candidate CREATIVE DIRECTOR  FASHION DESIGNER has an overall match of 7.5%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 10 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 4.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Coursework in : SOCIAL MEDIA MARKETING 2016 Fashion Institute of Technology City
+Coursework in : FASHION STYLING HOME FASHION BUSINESS 2016 Fashion Institute of Technology City
+Coursework in Associate of Arts: : FASHION INDUSTRY PROFILE NYC 2015 Parsons NYC City
+Coursework in Associate of Arts: : FABRIC SELECTION AND DESIGN STYLE 2015 Parsons NYC City
+Coursework in : MARKETING& TECHNOLOGIE IN FASHIONS BRANDS 2014 Central Saint Martins City
+College : DISEÃ‘ADOR DE PRODUCTO E IMAGEN EN INDUMENTARIA 2008 ORT Argentina City , Arg.
+Tecnico Superior : EN MARKETING DE MODA 2003 INTI / Emilia Romangna Argentina
+College : LICENCIADA EN DISEÃ‘O TEXTIL E INDUMENTARIA 2002 Universidad de Palermo Argentina
+Languages
+- Spanish: Native / - English: Medium-High / - Italian: Basic
+Computer Skills
+Photoshop / Corel Draw / Illustraitor / Microsoft Office'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+87,C014,CUSTOMER ADVOCATE,7.3,0/6,0,"Candidate CUSTOMER ADVOCATE has an overall match of 7.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 3.9% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'BBA : Marketing , 2014 University of Central Arkansas - City , State , Faulkner'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+88,C046,RDA,7.2,0/6,0,"Candidate RDA has an overall match of 7.2%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 3.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2012
+Dental Assisting Program Kaplan College ï¼​ City , State
+Honors GPA 3.85
+2014
+Invisalign Training ï¼​ City , State
+2015
+iTERO Training ï¼​ City , State
+2015
+Kor Whitening Training ï¼​ City , State
+Community Service
+Dentistry From the Heart - Free Dentistry
+CEA Dental Convention - Greeter, Collected Surveys
+Kaplan Student Leaders - Feeding America, Blood Drive'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+89,C050,LANGUAGE ARTS TEACHER,6.8,0/6,0,"Candidate LANGUAGE ARTS TEACHER has an overall match of 6.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 3.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'M.A : Elementary Education , May 2005 University of Arkansas at Pine Bluff - City , State , USA
+Elementary Education
+B.A : Elementary Education , May 1995 University of Arkansas at Pine Bluff - City , State , USA
+Elementary Education
+Professional Affiliations
+PBEA (Pine Bluff Education Association) and AEA (Arkansas Education Association)
+Personal Information
+Elementary and Middle School Teacher: ability to communicate, inspire trust and confidence, and motivate students, as well as understand
+students' educational and emotional needs. Have the ability to recognize and respond to individual and cultural differences in students and employ
+different teaching methods that will result in higher student achievement. Organized, dependable, patient, and creative. Able to work cooperatively
+and communicate effectively with other teachers, support staff, parents, and members of the community. Certified as a Pathwise Mentor Teacher
+Skills
+academic, approach, Arts, art, balance, basic, oral, special events, instruction, Leadership, Math, Mathematics, PowerPoint, Microsoft Word,
+Organizational Skills, painting, presentations, processes, progress, Reading, research, safety, SAT, scientific, staff development, structured,
+Teacher, WordPerfect
+Additional Information
+Elementary and Middle School Teacher: ability to communicate, inspire trust and confidence, and motivate students, as well as understand
+students' educational and emotional needs. Have the ability to recognize and respond to individual and cultural differences in students and
+employ different teaching methods that will result in higher student achievement. Organized, dependable, patient, and creative. Able to work
+cooperatively and communicate effectively with other teachers, support staff, parents, and members of the community. Certified as a
+Pathwise Mentor Teacher'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+90,C065,AVIATION ENGINEER,6.8,0/6,0,"Candidate AVIATION ENGINEER has an overall match of 6.8%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 3.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Bachelors of Science : Aerospace Engineering 2015 EMBRY-RIDDLE AERONAUTICAL UNIVERSITY , City , USA Aerospace Engineering
+Applied Mathematics 2014 EMBRY-RIDDLE AERONAUTICAL UNIVERSITY , City , USA Applied Mathematics
+High School Degree 2010 UNIDAD EDUCATIVA SAN NICOLA , City , Venezuela
+Languages
+English (fluent), Spanish (native), French (Beginner)
+Interests
+US History; Latin American History; Universal History; Baseball, Soccer, Basketball, Table Tennis, Tennis, Travel, Politics, Knowledge Transfer;
+Speech, Economy;
+Additional Information
+Interests: US History; Latin American History; Universal History; Baseball, Soccer, Basketball, Table Tennis, Tennis, Travel, Politics,
+Knowledge Transfer; Speech, Economy;
+Skills
+C, CAD, capital expenditures, CATIA, CRM, data acquisition, English, experiment, French, inspection, instruction, interpretation, Maple,
+MATLAB, Nastran, novel, optimization, quality, receiving, research, scheme, Spanish, technical support, troubleshooting, written'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+91,C100,BUSINESS DEVELOPMENT ASSOCIATE,6.5,0/6,0,"Candidate BUSINESS DEVELOPMENT ASSOCIATE has an overall match of 6.5%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 2.5% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'The March of Dimes
+The Magdalena House
+Green House Treatment Center
+The Bridge Homeless Shelter'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+92,C017,CUSTOMER CARE ADVOCATE,6.3,0/6,0,"Candidate CUSTOMER CARE ADVOCATE has an overall match of 6.3%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 2.1% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma West Roxbury High School - City , State
+Skills
+Creative problem solver MS Windows proficient
+EExceptional communication skills Trusted key holder
+SStrong client relations Mediation capability
+SStrategic sales knowledge Proficient in cash management
+QQuick learner Floor set design expertise,
+Attention to detail, cash management, closing, communication skills, Creative problem solver, clientele, client, clients, client relations, excellent
+customer service, focus, Mediation, MS Windows, promotion, purchasing, quality, Quick learner, selling, sales, seminars, set design, skin care,
+Strategic
+Professional Summary
+I am a motivated individual with exceptional customer service skills looking for professional growth. My experience in various settings have
+developed my understanding in working with a broad spectrum of customers.'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+93,C031,ADJUNCT INSTRUCTOR VOLUNTEER CAREER ADVISER,6.1,0/6,0,"Candidate ADJUNCT INSTRUCTOR VOLUNTEER CAREER ADVISER has an overall match of 6.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'B.A , Middle East Studies May 1986 Fordham University ï¼​ City , State , US GPA: Summa cum Laude
+Summa cum Laude Middle East Studies, Recipient of High departmental honors.
+M.A , Political Science 1989 Fordham University ï¼​ City , State , USA
+Graduated with GPA of 4.0.
+Professional Affiliations
+I have worked with NACE and NAACADA (Academic organizations). I constantly attend either in person (DC) or on-line meetings with a host
+of organizations that offer professional guidance and advice,
+Skills
+Academic adviser and analyst. Consultant with strong client focus, grant writing. Leadership skills in several venues, marketing strategies, office
+skills, sales, published and technical writer.
+Additional Information
+HONORS AND AWARDS Chapter Member of design team of Top National Award Winning Millennial Emotional Intelligence
+Assessment Product ""Education-In-Motion,"" HR Executive, 2006 Highest Professionalism,"" University of Charleston, 2002-2003
+Outstanding Service Award 2001, New York University New York University Dean's Dissertation Fellowship 4'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+94,C059,AGENCY SALES RESOURCES,6.1,0/6,0,"Candidate AGENCY SALES RESOURCES has an overall match of 6.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.8% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'BA , Psychology ABA 2018 Kaplan University Psychology ABA
+A.A.S , Business Administration General Pre 2017 Navarro College Business Administration General Pre
+JST , Mechanical Machinist Mechanical Engineering 2014 Vincennes University MM A School ï¼​ City , State Mechanical Machinist Mechanical
+Engineering
+General Studies November 2012 Cedar Valley Community College General Studies
+Personal Information
+Service Country: United States Branch: U.S NavyRank: E-3
+Willing to relocate: Anywhere
+Skills
+analytical skills, Agency, Attention to detail, call center, Call Center, Caregiver, Case Management, cash register, Interpersonal communication,
+Oral communication, CA, CPR, credit, client, clients, customer services, Customer Service, customer care, database management, doors,
+equipment operation, fax, hoists, HOME CARE, IVR, Listening, notes, Machinist, maintenance schedule, materials, mechanical, MS Excel, Excel,
+Outlook, word, Microsoft Word, Navy, Naval, Assist patients, personnel, copy machine, Problem Resolution, Problem solving skills, quality,
+Quality assurance, quick, real time, repairing, Sales, San, schematics, self-motivated, scripts, Telecommunications, telephone, phone, toileting,
+tops, Troubleshooting, Verbal Communication Skills, record vital signs, written
+Additional Information
+Willing to relocate: Anywhere Authorized to work in the US for any employer
+MILITARY SERVICE Service Country: United States Branch: U.S Navy Rank: E-3 November 2011 to September 2014 AWARDS
+Community of Heros March 2016 CERTIFICATIONS/LICENSES Certificate Of Contamination'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+95,C003,VOLUNTEER ACCOUNTANT,6.0,0/6,0,"Candidate VOLUNTEER ACCOUNTANT has an overall match of 6.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '8 2013
+Masters of Business Administration : Accounting Keller Graduate School of Management ï¼​ City , State , US 
+2014
+Masters of Science : Accounting & Financial Management Keller Graduate School of Management ï¼​ City , State , US 
+Certificate in Essentials of Bookkeeping and Computerized Accounting New York City College Of Technology New York AND Holding NYS
+driving license of "" E "" type.
+Skills
+Proficient in Microsoft Office Suite, Access, QuickBooks, Turbo Tax, Vision Accounting Software, Peach Tree, Dac-Easy, Sage, PeopleSoft and
+advance Microsoft excel'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+96,C040,Grocery Clerk,6.0,0/6,0,"Candidate Grocery Clerk has an overall match of 6.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.7% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'High School Diploma : 2013 
+Auburn Mountainview High School - City , State 
+Summary
+Collaborative individual well-versed in using heavy machinery on job sites. Physically capable of climbing scaffolding and willing to work any shift
+necessary. Dedicated worker known for providing daily updates to supervisors and considered a team-oriented player/communicator.
+Skills
+approach, Backhoe, Bobcat, budgets, budget, building codes, carpentry, cash register, closing, Basic computer skills, content, credit, delivery,
+Dependable, Driving, forklift, forklifts, functional, Hand tools, hand trucks, hiring, inspect, inventory, logistics, machine operation, machinery,
+materials, math, meetings, merchandising, window, Works, neat, oil, organizational, painting, personnel, pick, policies, power tools, pricing,
+protocols, quality, Fast learner, reporting, Safety, sales, team player, TV, type, written communication'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+97,C096,BUSINESS DEVELOPMENT MANAGER,6.0,0/6,0,"Candidate BUSINESS DEVELOPMENT MANAGER has an overall match of 6.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 1.6% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Retail Management Purdue University ï¼​ City , State , USA
+High School Diploma : College Preparation , May 1986 Bluffton High School ï¼​ City , State , USA
+Graduated top 10%
+National Honor Society
+Skills
+10-key, accounting, accounting software, accounts payable, administrative, billing, bookkeeping, calculators, charts, clerical, commodities, email,
+fax, filing, financial statements, general office duties, government, insurance, inventory, letters, materials, meetings, Merchandising, messaging, mail,
+office equipment, organizing, payroll, personnel, copy machines, coding, recording, Retail Management, sales, scheduling, speeches, spreadsheets,
+multi-line telephone, employee training, travel arrangements, typewriter, voice mail, word processing,'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+98,C053,COMANAGER,5.1,0/6,0,"Candidate COMANAGER has an overall match of 5.1%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.2% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Liberal Arts Kean University Liberal Arts
+High School Diploma Hamilton High West
+Skills
+billing, call center, cancer, clerical, coaching, customer satisfaction, customer service, direction, fast, instruction, inventory, Team Leader, market,
+meetings, Network, operating system, speaking, quality, real-time, safety, selling, Sales, scanning, staffing, strategy, supervision, phone, typing'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+99,C012,FAMILY AND COMMUNITY ADVOCATE,5.0,0/6,4,"Candidate FAMILY AND COMMUNITY ADVOCATE has an overall match of 5.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 4 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: 'Advanced Opportunity Fellowship Award *UW Milwaukee Field Placement Advisory Brd. Member *African American Student Achievement
+Award *Association of Black Social Workers Book Fund Award
+1993
+BSW : Social Welfare 
+Concordia University Wisconsin - City , State 
+Member: Student Social Work Club
+AODA Counselor/Social Work Intern *WCS/Wings Correctional Program, Milwaukee, WI AODA Counselor/Social Work Intern (Women In
+Need of Greater Support) : VA Medical Center - City , State'. Both keyword overlap and semantic contextual evaluations are closely aligned."
+100,C039,ASSISTANT MANAGER,5.0,0/6,0,"Candidate ASSISTANT MANAGER has an overall match of 5.0%. They possess 0 matching skills out of 6 defined in the job description. Their experience level of 0 years matches or exceeds the required 0 years. Semantic matching of their profile text with the job description yields a 0.0% similarity score (computed using SentenceTransformer (all-MiniLM-L6-v2)). Their education match is rated at 50.0% based on credentials found: '2009
+Fashion Institute of Design and Merchandising ï¼​ City , State
+2011
+San Diego Mesa College ï¼​ City , State
+Languages
+Bilingual: English & Spanish
+Skills
+closing, Competitive, client, customer service, delivery, direct sales, English, expense reports, inventory control, market trends, market, meetings,
+merchandising, Microsoft Office Suite, office, policies, pricing, receiving, Sales, sales reports, shipping, Spanish, travel arrangements'. Both keyword overlap and semantic contextual evaluations are closely aligned."

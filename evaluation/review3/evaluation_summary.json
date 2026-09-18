@@ -1,0 +1,12 @@
+{
+  "total_resumes": 100,
+  "processed_count": 100,
+  "failed_count": 0,
+  "success_rate_pct": 100.0,
+  "avg_semantic_score": 7.4,
+  "avg_final_score": 12.7,
+  "highest_score": 33.8,
+  "lowest_score": 5.0,
+  "total_processing_time_sec": 7.3,
+  "average_processing_time_per_resume_ms": 73.0
+}
