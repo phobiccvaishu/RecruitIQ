@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
-from app.api import resume, jobs, candidates, matching, training, fairness, verification
+from app.api import resume, jobs, candidates, matching, training, fairness, verification, auth
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -26,6 +26,7 @@ app.include_router(matching.router, prefix=settings.API_V1_STR)
 app.include_router(training.router, prefix=settings.API_V1_STR)
 app.include_router(fairness.router, prefix=settings.API_V1_STR)
 app.include_router(verification.router, prefix=settings.API_V1_STR)
+app.include_router(auth.router, prefix=settings.API_V1_STR)
 
 @app.get("/")
 def read_root():
