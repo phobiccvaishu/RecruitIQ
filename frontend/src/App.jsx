@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = "http://localhost:8001/api";
 
 const themes = {
   emerald: {
@@ -2320,7 +2320,7 @@ export default function App() {
           const loadSynonyms = async () => {
             setSynonymLoading(true);
             try {
-              const res = await axios.get("http://127.0.0.1:8000/api/matching/synonyms");
+              const res = await axios.get(`${API_BASE}/matching/synonyms`);
               setSynonyms(res.data);
             } catch(e) {
               console.error(e);
@@ -2332,7 +2332,7 @@ export default function App() {
             if (!synSkill.trim() || !synSynonym.trim()) return;
             setSynSaving(true);
             try {
-              await axios.post("http://127.0.0.1:8000/api/matching/synonyms", {
+              await axios.post(`${API_BASE}/matching/synonyms`, {
                 skill: synSkill.trim(),
                 synonym: synSynonym.trim(),
                 equivalence_ratio: parseFloat(synRatio)
@@ -2348,7 +2348,7 @@ export default function App() {
           };
           const deleteSynonym = async (id) => {
             try {
-              await axios.delete(`http://127.0.0.1:8000/api/matching/synonyms/${id}`);
+              await axios.delete(`${API_BASE}/matching/synonyms/${id}`);
               loadSynonyms();
             } catch(e) {}
           };
