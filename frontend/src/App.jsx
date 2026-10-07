@@ -805,6 +805,46 @@ export default function App() {
               <p>AI-Powered decisions for corporate HR screening and placement.</p>
             </div>
 
+            <details style={{ marginBottom: '24px', backgroundColor: 'rgba(59, 130, 246, 0.05)', border: '1px solid rgba(59, 130, 246, 0.25)', borderRadius: '10px', padding: '14px 18px', cursor: 'pointer' }}>
+              <summary style={{ fontWeight: '600', color: 'var(--secondary)', display: 'flex', alignItems: 'center', gap: '8px', fontSize: '0.95rem' }}>
+                🎓 Presentation &amp; Panel Reference Guide (Click to Expand / Collapse)
+              </summary>
+              <div style={{ marginTop: '14px', fontSize: '0.85rem', color: 'var(--text-main)', lineHeight: '1.6', cursor: 'default' }}>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '14px', marginBottom: '14px' }}>
+                  <div style={{ backgroundColor: 'var(--bg-main)', padding: '12px', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
+                    <div style={{ fontWeight: 'bold', color: 'var(--primary)', marginBottom: '4px' }}>1. NLP Semantic Engine</div>
+                    <div style={{ color: 'var(--text-muted)' }}>Sentence-BERT (<code>all-MiniLM-L6-v2</code>) encodes dense 384-d semantic vectors to match contextual semantics beyond rigid keyword matching.</div>
+                  </div>
+                  <div style={{ backgroundColor: 'var(--bg-main)', padding: '12px', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
+                    <div style={{ fontWeight: 'bold', color: 'var(--secondary)', marginBottom: '4px' }}>2. ML Classification &amp; Explainability</div>
+                    <div style={{ color: 'var(--text-muted)' }}>A trained Random Forest classifier predicts placement suitability probability with human-interpretable feature attribution.</div>
+                  </div>
+                  <div style={{ backgroundColor: 'var(--bg-main)', padding: '12px', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
+                    <div style={{ fontWeight: 'bold', color: 'var(--primary)', marginBottom: '4px' }}>3. Multi-Platform Verification</div>
+                    <div style={{ color: 'var(--text-muted)' }}>Cross-references claimed experience against live GitHub repositories, LeetCode problem ratings, and HackerRank badges.</div>
+                  </div>
+                  <div style={{ backgroundColor: 'var(--bg-main)', padding: '12px', borderRadius: '8px', border: '1px solid var(--border-color)' }}>
+                    <div style={{ fontWeight: 'bold', color: 'var(--danger)', marginBottom: '4px' }}>4. Demographic Fairness Auditing</div>
+                    <div style={{ color: 'var(--text-muted)' }}>Monitors Disparate Impact and Demographic Parity variance across gender &amp; ethnicity to guarantee bias-mitigated hiring.</div>
+                  </div>
+                </div>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                  <button type="button" className="btn btn-primary" style={{ padding: '6px 12px', fontSize: '0.8rem' }} onClick={() => setCurrentTab("analyzer")}>
+                    Go to Resume &amp; Profile Analyzer →
+                  </button>
+                  <button type="button" className="btn btn-secondary" style={{ padding: '6px 12px', fontSize: '0.8rem' }} onClick={() => setCurrentTab("matching")}>
+                    Go to Matching Engine →
+                  </button>
+                  <button type="button" className="btn" style={{ padding: '6px 12px', fontSize: '0.8rem', backgroundColor: 'rgba(255,255,255,0.08)', color: 'var(--text-main)', border: '1px solid var(--border-color)' }} onClick={() => setCurrentTab("verifier")}>
+                    Go to Credential Verifier →
+                  </button>
+                  <button type="button" className="btn" style={{ padding: '6px 12px', fontSize: '0.8rem', backgroundColor: 'rgba(255,255,255,0.08)', color: 'var(--text-main)', border: '1px solid var(--border-color)' }} onClick={() => setCurrentTab("lab")}>
+                    Go to Fairness Lab →
+                  </button>
+                </div>
+              </div>
+            </details>
+
             <div className="dashboard-grid">
               <div className="card-stat">
                 <div className="stat-icon">👤</div>
@@ -1181,9 +1221,27 @@ export default function App() {
               {analyzerMode === "direct" && (
                 <div className="form-card" style={{ margin: 0 }}>
                   <h3 style={{ marginBottom: '6px', fontSize: '1.2rem', color: 'var(--primary)' }}>⚡ Direct Profile Analyzer</h3>
-                  <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', marginBottom: '16px' }}>
-                    No PDF needed. Connect your LinkedIn &amp; GitHub to auto-pull public repositories, skills, and projects.
-                  </p>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px', flexWrap: 'wrap', gap: '8px' }}>
+                    <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', margin: 0 }}>
+                      No PDF needed. Connect your LinkedIn &amp; GitHub to auto-pull public repositories, skills, and projects.
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setDirectName("Anirudh Saini");
+                        setDirectEmail("anirudh.saini@recruitiq.dev");
+                        setDirectLinkedin("https://linkedin.com/in/anirudhsaini");
+                        setDirectGithub("Anirudh-bit-cloud");
+                        setDirectLeetcode("anirudhsaini");
+                        setDirectHackerrank("anirudh_saini");
+                        setDirectLinkedinText("Full Stack AI Software Engineer specializing in PyTorch, FastAPI, React, Transformers, Sentence-BERT, distributed systems, and NLP pipeline engineering. Developed RecruitIQ: an intelligent recruitment intelligence platform with multi-platform credential verification (GitHub, LeetCode, HackerRank) and demographic bias mitigation.");
+                      }}
+                      className="btn"
+                      style={{ padding: '6px 12px', fontSize: '0.75rem', backgroundColor: 'rgba(16, 185, 129, 0.15)', color: 'var(--primary)', border: '1px solid var(--primary)', borderRadius: '6px', cursor: 'pointer', fontWeight: '600' }}
+                    >
+                      ⚡ Quick-Fill Demo Candidate
+                    </button>
+                  </div>
                   <form onSubmit={handleDirectProfileImport}>
                     <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px', marginBottom: '10px' }}>
                       <div>
@@ -1508,10 +1566,23 @@ export default function App() {
 
                 {renderWeightSliders()}
 
-                <div style={{ textAlign: 'center', marginTop: '20px' }}>
+                <div style={{ display: 'flex', gap: '10px', justifyContent: 'center', marginTop: '20px', flexWrap: 'wrap' }}>
                   <button className="btn btn-primary" type="submit" disabled={matchingLoading}>
                     {matchingLoading ? "Calculating Embeddings..." : "Analyze Match"}
                   </button>
+                  {candidates.length > 0 && jobs.length > 0 && (
+                    <button
+                      type="button"
+                      className="btn"
+                      style={{ backgroundColor: 'rgba(59, 130, 246, 0.15)', color: 'var(--secondary)', border: '1px solid var(--secondary)', cursor: 'pointer', padding: '10px 18px', fontSize: '0.9rem', borderRadius: '8px' }}
+                      onClick={() => {
+                        setSelectedCandidate(String(candidates[0].id));
+                        setSelectedJob(String(jobs[0].id));
+                      }}
+                    >
+                      ⚡ Quick-Select Demo Pair
+                    </button>
+                  )}
                 </div>
               </form>
 
